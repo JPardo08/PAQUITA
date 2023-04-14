@@ -1,29 +1,26 @@
+## PREPROCESSING DATA FOR RE y NER
+./preprocessing.ipynb
 
-RE y NER
-/Users/joelpardo/Desktop/PAQUITA/preprocessing.ipynb
-
-RE
-/Users/joelpardo/Desktop/PAQUITA/parse_data.py
-
-EXEC (DRIVE)
-/content/gdrive/MyDrive/Notebooks/Paquita/paquita_exec.ipynb
+## CREATING DATA FILES FOR RE
+./parse_data.py
 
 
-RAW DATA
-- Tokenizados: /Users/joelpardo/Desktop/PAQUITA/data/testlink/TESTLINK_ES_training_data_V2/training_tokenized
-- Entidades: /Users/joelpardo/Desktop/PAQUITA/data/testlink/TESTLINK_ES_training_data_V2/TESTLINK_training_data/training.txt
+## RAW DATA
+Spanish Testlink:
+- Tokenizados: ./testlink/TESTLINK_ES_training_data_V2/training_tokenized
+- Entidades: ./data/testlink/TESTLINK_ES_training_data_V2/TESTLINK_training_data/training.txt
 
 
-PREPROCESSED DATA
-/Users/joelpardo/Desktop/PAQUITA/preprocessed
+## PREPROCESSED DATA
+./preprocessed
 
 
-CONFIGS
-/Users/joelpardo/Desktop/PAQUITA/configs
+## MODEL CONFIGS
+./configs
 
 
 
-STEPS FOR USE:
+## STEPS FOR USE:
 
 1. Run preprocessing.ipynb. This is the preprocessing notebook for the data. It works for NER and RE. It outputs '.tsv' files for NER y '.txt' for RE.
 
