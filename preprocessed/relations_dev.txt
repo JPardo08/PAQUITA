@@ -1,117 +1,21 @@
 [
     {
-        "document": "Varon de 66 anos controlado en Consultas Externas por hipertrofia benigna de prostata. Presenta episodios de hematuria monosintomatica autolimitada y urinocultivos negativos. En estudio ecografico se observa ureteropielocaliectasia grado II de rinon derecho y en U.I.V. se objetiva anulacion funcional de rinon derecho, motivo por el cual, se practica nefrostomia percutanea derecha, que confirma el hallazgo urografico. Ocho meses antes, est:udio ecografico y U.I.V. sin hallazgos patologicos.    Entre sus antecedentes personales cabe destacar: sin alergias conocidas. HTA. Diabetes Mellitus tipo II. Miocardiopatia hipertrofica. Aneurisma carotideo intracerebral sin secuelas.  La exploracion fisica practicada es la siguiente: Abdomen blando y depresible, no doloroso, no megalias, Fosas renales libres indoloras. Genitales externos sin signos patologicos. Tacto rectal compatible con HBP grado I-II. Se llevan a cabo las siguientes EXPLORACIONES COMPLEMENTARIAS:  ANALISIS: Glucemia 145 mg/dl, Creatinina 1.4 mg/dl. Resto de parametros dentro de la normalidad.  CITOLOGIA URINARIA: Compatible con carcinoma de celulas transicionales de bajo grado.  PIELOGRAFIA DESCENDENTE a traves de Nefrostomia: Defecto de repleccion a nivel de ureter sacro-iliaco derecho de aproximadamente 20 mm de longitud, con signos de infiltracion de la pared.    ESTUDIO FUNCIONAL DE RINON DERECHO: Aclaramiento de Creatinina inferior a 5 ml/minuto.  TAC ABDOMINO-PELVICO: Aneurisma de Aorta infrarrenal. Atrofia hidronefrotica de rinon derecho, sin visualizarse imagenes endoluminales intraureterales. Dudosas adenopatias paravesicales.  Ante estos hallazgos y la sospecha de tumor de vias de ureter derecho, el paciente es intervenido quirurgicamente practicandose nefroureterectomia radical derecha con evolucion postoperatoria satisfactoria. El dictamen histopatologico de la pieza nos informa de pielonefritis cronica y cambios de arteriosclerosis, asi como lesion inflamatoria ureteral que oblitera la luz con infiltrado de linfocitos en capas musculares, erosion de urotelio y presencia de Actinomices. Tras 9 anos de seguimiento, el paciente mantiene una funcion renal aceptable (Creatinina serica 2.1 mg/dl ) y es controlado por HBP sintomatica.",
+        "document": "Presenta episodios de hematuria monosintomatica autolimitada y urinocultivos negativos. ",
         "tokens": [
             {
                 "text": "negativos",
-                "start": 164,
-                "end": 173,
+                "start": 77,
+                "end": 86,
                 "token_start": 8,
                 "token_end": 8,
                 "entityLabel": "RML"
             },
             {
                 "text": "urinocultivos",
-                "start": 150,
-                "end": 163,
+                "start": 63,
+                "end": 76,
                 "token_start": 7,
                 "token_end": 7,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "145 mg/dl",
-                "start": 988,
-                "end": 997,
-                "token_start": 12,
-                "token_end": 15,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "Glucemia",
-                "start": 979,
-                "end": 987,
-                "token_start": 11,
-                "token_end": 11,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "1.4 mg/dl",
-                "start": 1010,
-                "end": 1019,
-                "token_start": 18,
-                "token_end": 21,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "Creatinina",
-                "start": 999,
-                "end": 1009,
-                "token_start": 17,
-                "token_end": 17,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "dentro de la normalidad",
-                "start": 1041,
-                "end": 1064,
-                "token_start": 3,
-                "token_end": 6,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "parametros",
-                "start": 1030,
-                "end": 1040,
-                "token_start": 2,
-                "token_end": 2,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "aproximadamente 20 mm de longitud",
-                "start": 1267,
-                "end": 1300,
-                "token_start": 17,
-                "token_end": 21,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "Defecto",
-                "start": 1203,
-                "end": 1210,
-                "token_start": 7,
-                "token_end": 7,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "inferior a 5 ml/minuto",
-                "start": 1408,
-                "end": 1430,
-                "token_start": 9,
-                "token_end": 14,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "Aclaramiento",
-                "start": 1381,
-                "end": 1393,
-                "token_start": 6,
-                "token_end": 6,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "2.1 mg/dl",
-                "start": 2188,
-                "end": 2197,
-                "token_start": 16,
-                "token_end": 19,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "Creatinina",
-                "start": 2170,
-                "end": 2180,
-                "token_start": 14,
-                "token_end": 14,
                 "entityLabel": "EVENT"
             }
         ],
@@ -120,7 +24,46 @@
                 "child": 8,
                 "head": 7,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Se llevan a cabo las siguientes EXPLORACIONES COMPLEMENTARIAS:  ANALISIS: Glucemia 145 mg/dl, Creatinina 1.4 mg/dl. ",
+        "tokens": [
+            {
+                "text": "145 mg/dl",
+                "start": 83,
+                "end": 92,
+                "token_start": 12,
+                "token_end": 15,
+                "entityLabel": "RML"
             },
+            {
+                "text": "Glucemia",
+                "start": 74,
+                "end": 82,
+                "token_start": 11,
+                "token_end": 11,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "1.4 mg/dl",
+                "start": 105,
+                "end": 114,
+                "token_start": 18,
+                "token_end": 21,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Creatinina",
+                "start": 94,
+                "end": 104,
+                "token_start": 17,
+                "token_end": 17,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 12,
                 "head": 11,
@@ -130,22 +73,114 @@
                 "child": 18,
                 "head": 17,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Resto de parametros dentro de la normalidad.  ",
+        "tokens": [
+            {
+                "text": "dentro de la normalidad",
+                "start": 20,
+                "end": 43,
+                "token_start": 3,
+                "token_end": 6,
+                "entityLabel": "RML"
             },
+            {
+                "text": "parametros",
+                "start": 9,
+                "end": 19,
+                "token_start": 2,
+                "token_end": 2,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 3,
                 "head": 2,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "PIELOGRAFIA DESCENDENTE a traves de Nefrostomia: Defecto de repleccion a nivel de ureter sacro-iliaco derecho de aproximadamente 20 mm de longitud, con signos de infiltracion de la pared.    ",
+        "tokens": [
+            {
+                "text": "aproximadamente 20 mm de longitud",
+                "start": 113,
+                "end": 146,
+                "token_start": 17,
+                "token_end": 21,
+                "entityLabel": "RML"
             },
+            {
+                "text": "Defecto",
+                "start": 49,
+                "end": 56,
+                "token_start": 7,
+                "token_end": 7,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 17,
                 "head": 7,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "ESTUDIO FUNCIONAL DE RINON DERECHO: Aclaramiento de Creatinina inferior a 5 ml/minuto.  ",
+        "tokens": [
+            {
+                "text": "inferior a 5 ml/minuto",
+                "start": 63,
+                "end": 85,
+                "token_start": 9,
+                "token_end": 14,
+                "entityLabel": "RML"
             },
+            {
+                "text": "Aclaramiento",
+                "start": 36,
+                "end": 48,
+                "token_start": 6,
+                "token_end": 6,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 9,
                 "head": 6,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Tras 9 anos de seguimiento, el paciente mantiene una funcion renal aceptable (Creatinina serica 2.1 mg/dl ) y es controlado por HBP sintomatica.",
+        "tokens": [
+            {
+                "text": "2.1 mg/dl",
+                "start": 96,
+                "end": 105,
+                "token_start": 16,
+                "token_end": 19,
+                "entityLabel": "RML"
             },
+            {
+                "text": "Creatinina",
+                "start": 78,
+                "end": 88,
+                "token_start": 14,
+                "token_end": 14,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 16,
                 "head": 14,
@@ -154,95 +189,23 @@
         ]
     },
     {
-        "document": "Paciente de 58 anos de origen subsahariano que acude a Urgencias por sudoracion y fiebre con dolor lumbar izquierdo, pesadez en flanco de dicho lado y disuria de unos 15 dias.  Dentro de sus antecedentes personales no destaca ninguna patologia trascendente: No DM. No HTA. No alergias conocidas. Ex fumador de 8 anos. No hematuria. No colicos. No ITUs.  Relata que en las ultimas dos semanas presenta febricula ocasional, sudoracion, pesadez en flanco izquierdo con dolor lumbar del mismo lado y clinica miccional con chorro aceptable, disuria, no entrecortado, no goteo, no urgencia con frecuencia miccional nocturna de una vez y diurna cada 3-4 horas con sensacion de vacuidad completa.  A la exploracion fisica se aprecia a nivel abdominal, efecto masa en flanco izquierdo a la palpacion profunda, Tacto Rectal: prostata grado I-II sin lesiones sospechosas.  Las pruebas complementarias presentaban: Hemograma normal con signos de Eosinofilia. Bioquimica normal. Resto normal, analitica de orina negativa. Rx aparato genito urinario presentaba efecto masa en flanco izquierdo que borraba la linea del psoas de dicho lado. Ecografia renal: multiples quistes en rinon izquierdo. Se realiza TC abdominopelvico : con lesiones quisticas con vesiculas hijas, compatible con enfermedad hidatidica renal.    Se solicita serologia de Anticuerpos Echinococcus/Hemag que es POSITIVO a cifras superiores 1/2.621.440.  Se completa estudio con RMN para tener una iconografia mas completa y valorar relaciones con estructuras adyacentes.  Ante la sospecha diagnostica, se decide cirugia sobre la unidad renal afecta, siendo imposible durante el acto quirurgico realizar cirugia conservadora practicandole al paciente una nefroureterectomia izquierda completa por sospecha de comunicacion del quiste hidatidico con la via ante el grosor de la misma. Previo al tratamiento quirurgico el paciente recibe un ciclo de Albendazol y otro tras la cirugia.  El paciente tras el tratamiento presenta caida de las cifras de titulacion de anticuerpos y a tres anos del procedimiento el paciente esta asintomatico y analiticamente sin enfermedad.",
+        "document": "Las pruebas complementarias presentaban: Hemograma normal con signos de Eosinofilia. ",
         "tokens": [
             {
                 "text": "normal",
-                "start": 913,
-                "end": 919,
+                "start": 51,
+                "end": 57,
                 "token_start": 6,
                 "token_end": 6,
                 "entityLabel": "RML"
             },
             {
                 "text": "Hemograma",
-                "start": 903,
-                "end": 912,
+                "start": 41,
+                "end": 50,
                 "token_start": 5,
                 "token_end": 5,
                 "entityLabel": "EVENT"
-            },
-            {
-                "text": "normal",
-                "start": 958,
-                "end": 964,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "Bioquimica",
-                "start": 947,
-                "end": 957,
-                "token_start": 0,
-                "token_end": 0,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "normal",
-                "start": 972,
-                "end": 978,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "Resto",
-                "start": 966,
-                "end": 971,
-                "token_start": 0,
-                "token_end": 0,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "negativa",
-                "start": 999,
-                "end": 1007,
-                "token_start": 6,
-                "token_end": 6,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "analitica",
-                "start": 980,
-                "end": 989,
-                "token_start": 3,
-                "token_end": 3,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "POSITIVO",
-                "start": 1366,
-                "end": 1374,
-                "token_start": 10,
-                "token_end": 10,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "serologia",
-                "start": 1315,
-                "end": 1324,
-                "token_start": 2,
-                "token_end": 2,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "a cifras superiores 1/2.621.440",
-                "start": 1375,
-                "end": 1406,
-                "token_start": 11,
-                "token_end": 16,
-                "entityLabel": "RML"
             }
         ],
         "relations": [
@@ -250,12 +213,74 @@
                 "child": 6,
                 "head": 5,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Bioquimica normal. ",
+        "tokens": [
+            {
+                "text": "normal",
+                "start": 11,
+                "end": 17,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "RML"
             },
+            {
+                "text": "Bioquimica",
+                "start": 0,
+                "end": 10,
+                "token_start": 0,
+                "token_end": 0,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 1,
                 "head": 0,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Resto normal, analitica de orina negativa. ",
+        "tokens": [
+            {
+                "text": "normal",
+                "start": 6,
+                "end": 12,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "RML"
             },
+            {
+                "text": "Resto",
+                "start": 0,
+                "end": 5,
+                "token_start": 0,
+                "token_end": 0,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "negativa",
+                "start": 33,
+                "end": 41,
+                "token_start": 6,
+                "token_end": 6,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "analitica",
+                "start": 14,
+                "end": 23,
+                "token_start": 3,
+                "token_end": 3,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 1,
                 "head": 0,
@@ -265,7 +290,38 @@
                 "child": 6,
                 "head": 3,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Se solicita serologia de Anticuerpos Echinococcus/Hemag que es POSITIVO a cifras superiores 1/2.621.440.  ",
+        "tokens": [
+            {
+                "text": "POSITIVO",
+                "start": 63,
+                "end": 71,
+                "token_start": 10,
+                "token_end": 10,
+                "entityLabel": "RML"
             },
+            {
+                "text": "serologia",
+                "start": 12,
+                "end": 21,
+                "token_start": 2,
+                "token_end": 2,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "a cifras superiores 1/2.621.440",
+                "start": 72,
+                "end": 103,
+                "token_start": 11,
+                "token_end": 16,
+                "entityLabel": "RML"
+            }
+        ],
+        "relations": [
             {
                 "child": 10,
                 "head": 2,
@@ -279,471 +335,31 @@
         ]
     },
     {
-        "document": "Mujer de 27 anos, politoxicomana activa, que 15 dias antes de ingresar comienza con tos seca, disnea de intensidad progresiva, fiebre, astenia, anorexia, nauseas y vomitos. Tenia antecedentes de infeccion por VIH de reciente diagnostico, desconociendo sus parametros inmunologicos y virologicos. La exploracion al ingreso mostraba caquexia, 40 respiraciones/ min., 120 latidos/min. TA:110/60 mm Hg, muguet, acropaquias, adenopatias cervicales bilaterales menores de 1 cm y supraclavicular derecha de 2 cm. Disminucion generalizada del murmullo vesicular y crepitantes bibasales, soplo sistolico II/VI polifocal, hepatomegalia a 2 cm del borde costal y condilomas vulvares. El resto de la exploracion somatica y neurologica fueron normales. Se realizaron al ingreso las siguientes pruebas complementarias: Hb 11,3 g/dL, 6.900 leucocitos/uL (79% segmentados, 14% linfocitos), 682.000 plaquetas/uL; sodio 119 mmol/L, LDH 603 UI/L, siendo normales el resto de los valores del autoanalizador. Gasometria arterial basal al ingreso: pH 7,54, pCO2 34,8 mm Hg, pO2 73,4 mmHg. En la placa de torax se observa una masa mediastinica anterior derecha que comprime y desplaza la traquea y un infiltrado alveolo-intersticial bilateral. Posteriormente se realiza ecografia abdominal y TAC toracico, abdominal y pelvico en los que se aprecian adenopatias axilares bilaterales menores de un cm, una gran masa mediastinica que comprime traquea y vena cava superior, patron intersticial pulmonar en resolucion y engrosamiento de pared de asas intestinales con pequena cantidad de liquido libre entre ellas. Se realizo ecocardiograma transtoracico en el que no se encontraron alteraciones. Se inicia tratamiento con cotrimoxazol, levofloxacino y amfotericina-B, a pesar de lo cual desarrolla insuficiencia respiratoria progresiva, precisando ventilacion mecanica. Durante los dias siguientes se observa mejoria de la insuficiencia respiratoria, posibilitando la retirada de la ventilacion mecanica. Posteriormente presenta crisis tonico-clonica generalizada seguida de hemiparesia izquierda; se realiza TAC y RMN craneal, observandose una masa de pared gruesa y centro hipodenso de 4 cm de diametro en encrucijada temporo-parieto-occipital derecha. Se anade al tratamiento sulfadiacina, pirimetamina, acido folico y fenitoina, que se retiran tres semanas mas tarde por ausencia de mejoria clinica y de disminucion de la lesion intracraneal. Se realizo PAAF y biopsia de adenopatia supraclavicular que se informa como metastasis de tumor maligno indiferenciado de origen epitelial. Mas tarde se reciben los resultados siguientes: linfocitos CD4+: 440/mL, carga viral VIH: 25.000 copias/ mL, alfafetoproteina normal y b-HCG: 650 mUI/mL (normal < 5). Los estudios microbiologicos en sangre, orina, esputo, brocoaspirado y puncion ganglionar fueron negativos para bacterias, micobacterias y hongos. Las tinciones de muestras respiratorias fueron negativas para P. carinii (P. jiroveci). Las serologias para Toxoplasma, virus hepatotropos y RPR fueron negativas; el antigeno criptococico fue negativo.    Diagnostico y evolucion: Inicialmente se realizo el diagnostico de neumonia difusa presuntivamente por P. carinii (P. jiroveci) y probable linfoma diseminado con afectacion mediastinica, cerebral e intestinal. Tras recibir los resultados de la biopsia ganglionar y de los marcadores tumorales (alfafetoproteina y ss-HCG), se realiza el diagnostico definitivo: tumor de celulas germinales extragonadal con afectacion ganglionar supraclavicular y mediastinica, y probablemente cerebral. Se propone a la paciente realizar estudio de extension tumoral e iniciar tratamiento con poliquimioterapia, que rechaza, a pesar de explicarsele que la elevada quimiosensibilidad del tumor lo hacia potencialmente curable. La paciente fallecio en otro centro varias semanas despues del alta.",
+        "document": "La exploracion al ingreso mostraba caquexia, 40 respiraciones/ min., 120 latidos/min. ",
         "tokens": [
             {
                 "text": "40 respiraciones/ min",
-                "start": 341,
-                "end": 362,
+                "start": 45,
+                "end": 66,
                 "token_start": 7,
                 "token_end": 10,
                 "entityLabel": "RML"
             },
             {
                 "text": "exploracion",
-                "start": 299,
-                "end": 310,
+                "start": 3,
+                "end": 14,
                 "token_start": 1,
                 "token_end": 1,
                 "entityLabel": "EVENT"
             },
             {
                 "text": "120 latidos/min",
-                "start": 365,
-                "end": 380,
+                "start": 69,
+                "end": 84,
                 "token_start": 13,
                 "token_end": 16,
                 "entityLabel": "RML"
-            },
-            {
-                "text": "110/60 mm Hg",
-                "start": 385,
-                "end": 397,
-                "token_start": 2,
-                "token_end": 6,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "TA",
-                "start": 382,
-                "end": 384,
-                "token_start": 0,
-                "token_end": 0,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "menores de 1 cm",
-                "start": 455,
-                "end": 470,
-                "token_start": 15,
-                "token_end": 18,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "adenopatias",
-                "start": 420,
-                "end": 431,
-                "token_start": 12,
-                "token_end": 12,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "2 cm",
-                "start": 500,
-                "end": 504,
-                "token_start": 23,
-                "token_end": 24,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "normales",
-                "start": 730,
-                "end": 738,
-                "token_start": 9,
-                "token_end": 9,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "resto",
-                "start": 676,
-                "end": 681,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "11,3 g/dL",
-                "start": 808,
-                "end": 817,
-                "token_start": 10,
-                "token_end": 13,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "Hb",
-                "start": 805,
-                "end": 807,
-                "token_start": 9,
-                "token_end": 9,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "6.900 leucocitos/uL",
-                "start": 819,
-                "end": 838,
-                "token_start": 15,
-                "token_end": 18,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "pruebas",
-                "start": 780,
-                "end": 787,
-                "token_start": 6,
-                "token_end": 6,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "79%",
-                "start": 840,
-                "end": 843,
-                "token_start": 20,
-                "token_end": 20,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "segmentados",
-                "start": 844,
-                "end": 855,
-                "token_start": 21,
-                "token_end": 21,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "14%",
-                "start": 857,
-                "end": 860,
-                "token_start": 23,
-                "token_end": 23,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "linfocitos",
-                "start": 861,
-                "end": 871,
-                "token_start": 24,
-                "token_end": 24,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "682.000 plaquetas/uL",
-                "start": 874,
-                "end": 894,
-                "token_start": 27,
-                "token_end": 30,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "119 mmol/L",
-                "start": 902,
-                "end": 912,
-                "token_start": 33,
-                "token_end": 36,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "sodio",
-                "start": 896,
-                "end": 901,
-                "token_start": 32,
-                "token_end": 32,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "603 UI/L",
-                "start": 918,
-                "end": 926,
-                "token_start": 39,
-                "token_end": 42,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "LDH",
-                "start": 914,
-                "end": 917,
-                "token_start": 38,
-                "token_end": 38,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "normales",
-                "start": 935,
-                "end": 943,
-                "token_start": 45,
-                "token_end": 45,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "7,54",
-                "start": 1029,
-                "end": 1033,
-                "token_start": 7,
-                "token_end": 7,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "pH",
-                "start": 1026,
-                "end": 1028,
-                "token_start": 6,
-                "token_end": 6,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "34,8 mm Hg",
-                "start": 1040,
-                "end": 1050,
-                "token_start": 10,
-                "token_end": 12,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "pCO2",
-                "start": 1035,
-                "end": 1039,
-                "token_start": 9,
-                "token_end": 9,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "73,4 mmHg",
-                "start": 1056,
-                "end": 1065,
-                "token_start": 15,
-                "token_end": 16,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "pO2",
-                "start": 1052,
-                "end": 1055,
-                "token_start": 14,
-                "token_end": 14,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "menores de un cm",
-                "start": 1359,
-                "end": 1375,
-                "token_start": 20,
-                "token_end": 23,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "adenopatias",
-                "start": 1326,
-                "end": 1337,
-                "token_start": 17,
-                "token_end": 17,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "4 cm de diametro",
-                "start": 2161,
-                "end": 2177,
-                "token_start": 27,
-                "token_end": 30,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "masa",
-                "start": 2118,
-                "end": 2122,
-                "token_start": 19,
-                "token_end": 19,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "440/mL",
-                "start": 2625,
-                "end": 2631,
-                "token_start": 12,
-                "token_end": 14,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "linfocitos",
-                "start": 2608,
-                "end": 2618,
-                "token_start": 8,
-                "token_end": 8,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "25.000 copias/ mL",
-                "start": 2650,
-                "end": 2667,
-                "token_start": 20,
-                "token_end": 23,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "carga",
-                "start": 2633,
-                "end": 2638,
-                "token_start": 16,
-                "token_end": 16,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "normal",
-                "start": 2686,
-                "end": 2692,
-                "token_start": 26,
-                "token_end": 26,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "alfafetoproteina",
-                "start": 2669,
-                "end": 2685,
-                "token_start": 25,
-                "token_end": 25,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "650 mUI/mL",
-                "start": 2702,
-                "end": 2712,
-                "token_start": 30,
-                "token_end": 33,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "b-HCG",
-                "start": 2695,
-                "end": 2700,
-                "token_start": 28,
-                "token_end": 28,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "negativos",
-                "start": 2824,
-                "end": 2833,
-                "token_start": 15,
-                "token_end": 15,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "micobacterias",
-                "start": 2850,
-                "end": 2863,
-                "token_start": 19,
-                "token_end": 19,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "estudios",
-                "start": 2731,
-                "end": 2739,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "puncion",
-                "start": 2798,
-                "end": 2805,
-                "token_start": 12,
-                "token_end": 12,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "hongos",
-                "start": 2866,
-                "end": 2872,
-                "token_start": 21,
-                "token_end": 21,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "brocoaspirado",
-                "start": 2782,
-                "end": 2795,
-                "token_start": 10,
-                "token_end": 10,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "bacterias",
-                "start": 2839,
-                "end": 2848,
-                "token_start": 17,
-                "token_end": 17,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "negativas",
-                "start": 2921,
-                "end": 2930,
-                "token_start": 6,
-                "token_end": 6,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "tinciones",
-                "start": 2878,
-                "end": 2887,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "P",
-                "start": 2936,
-                "end": 2937,
-                "token_start": 8,
-                "token_end": 8,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "negativas",
-                "start": 3026,
-                "end": 3035,
-                "token_start": 10,
-                "token_end": 10,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "RPR",
-                "start": 3015,
-                "end": 3018,
-                "token_start": 8,
-                "token_end": 8,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "virus",
-                "start": 2994,
-                "end": 2999,
-                "token_start": 5,
-                "token_end": 5,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "Toxoplasma",
-                "start": 2982,
-                "end": 2992,
-                "token_start": 3,
-                "token_end": 3,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "negativo",
-                "start": 3066,
-                "end": 3074,
-                "token_start": 16,
-                "token_end": 16,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "antigeno",
-                "start": 3040,
-                "end": 3048,
-                "token_start": 13,
-                "token_end": 13,
-                "entityLabel": "EVENT"
             }
         ],
         "relations": [
@@ -756,7 +372,54 @@
                 "child": 13,
                 "head": 1,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "TA:110/60 mm Hg, muguet, acropaquias, adenopatias cervicales bilaterales menores de 1 cm y supraclavicular derecha de 2 cm. ",
+        "tokens": [
+            {
+                "text": "110/60 mm Hg",
+                "start": 3,
+                "end": 15,
+                "token_start": 2,
+                "token_end": 6,
+                "entityLabel": "RML"
             },
+            {
+                "text": "TA",
+                "start": 0,
+                "end": 2,
+                "token_start": 0,
+                "token_end": 0,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "menores de 1 cm",
+                "start": 73,
+                "end": 88,
+                "token_start": 15,
+                "token_end": 18,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "adenopatias",
+                "start": 38,
+                "end": 49,
+                "token_start": 12,
+                "token_end": 12,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "2 cm",
+                "start": 118,
+                "end": 122,
+                "token_start": 23,
+                "token_end": 24,
+                "entityLabel": "RML"
+            }
+        ],
+        "relations": [
             {
                 "child": 2,
                 "head": 0,
@@ -771,12 +434,154 @@
                 "child": 23,
                 "head": 12,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "El resto de la exploracion somatica y neurologica fueron normales. ",
+        "tokens": [
+            {
+                "text": "normales",
+                "start": 57,
+                "end": 65,
+                "token_start": 9,
+                "token_end": 9,
+                "entityLabel": "RML"
             },
+            {
+                "text": "resto",
+                "start": 3,
+                "end": 8,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 9,
                 "head": 1,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Se realizaron al ingreso las siguientes pruebas complementarias: Hb 11,3 g/dL, 6.900 leucocitos/uL (79% segmentados, 14% linfocitos), 682.000 plaquetas/uL; sodio 119 mmol/L, LDH 603 UI/L, siendo normales el resto de los valores del autoanalizador. ",
+        "tokens": [
+            {
+                "text": "11,3 g/dL",
+                "start": 68,
+                "end": 77,
+                "token_start": 10,
+                "token_end": 13,
+                "entityLabel": "RML"
             },
+            {
+                "text": "Hb",
+                "start": 65,
+                "end": 67,
+                "token_start": 9,
+                "token_end": 9,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "6.900 leucocitos/uL",
+                "start": 79,
+                "end": 98,
+                "token_start": 15,
+                "token_end": 18,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "pruebas",
+                "start": 40,
+                "end": 47,
+                "token_start": 6,
+                "token_end": 6,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "79%",
+                "start": 100,
+                "end": 103,
+                "token_start": 20,
+                "token_end": 20,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "segmentados",
+                "start": 104,
+                "end": 115,
+                "token_start": 21,
+                "token_end": 21,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "14%",
+                "start": 117,
+                "end": 120,
+                "token_start": 23,
+                "token_end": 23,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "linfocitos",
+                "start": 121,
+                "end": 131,
+                "token_start": 24,
+                "token_end": 24,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "682.000 plaquetas/uL",
+                "start": 134,
+                "end": 154,
+                "token_start": 27,
+                "token_end": 30,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "119 mmol/L",
+                "start": 162,
+                "end": 172,
+                "token_start": 33,
+                "token_end": 36,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "sodio",
+                "start": 156,
+                "end": 161,
+                "token_start": 32,
+                "token_end": 32,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "603 UI/L",
+                "start": 178,
+                "end": 186,
+                "token_start": 39,
+                "token_end": 42,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "LDH",
+                "start": 174,
+                "end": 177,
+                "token_start": 38,
+                "token_end": 38,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "normales",
+                "start": 195,
+                "end": 203,
+                "token_start": 45,
+                "token_end": 45,
+                "entityLabel": "RML"
+            }
+        ],
+        "relations": [
             {
                 "child": 10,
                 "head": 9,
@@ -816,7 +621,62 @@
                 "child": 45,
                 "head": 6,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Gasometria arterial basal al ingreso: pH 7,54, pCO2 34,8 mm Hg, pO2 73,4 mmHg. ",
+        "tokens": [
+            {
+                "text": "7,54",
+                "start": 41,
+                "end": 45,
+                "token_start": 7,
+                "token_end": 7,
+                "entityLabel": "RML"
             },
+            {
+                "text": "pH",
+                "start": 38,
+                "end": 40,
+                "token_start": 6,
+                "token_end": 6,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "34,8 mm Hg",
+                "start": 52,
+                "end": 62,
+                "token_start": 10,
+                "token_end": 12,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "pCO2",
+                "start": 47,
+                "end": 51,
+                "token_start": 9,
+                "token_end": 9,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "73,4 mmHg",
+                "start": 68,
+                "end": 77,
+                "token_start": 15,
+                "token_end": 16,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "pO2",
+                "start": 64,
+                "end": 67,
+                "token_start": 14,
+                "token_end": 14,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 7,
                 "head": 6,
@@ -831,17 +691,134 @@
                 "child": 15,
                 "head": 14,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Posteriormente se realiza ecografia abdominal y TAC toracico, abdominal y pelvico en los que se aprecian adenopatias axilares bilaterales menores de un cm, una gran masa mediastinica que comprime traquea y vena cava superior, patron intersticial pulmonar en resolucion y engrosamiento de pared de asas intestinales con pequena cantidad de liquido libre entre ellas. ",
+        "tokens": [
+            {
+                "text": "menores de un cm",
+                "start": 138,
+                "end": 154,
+                "token_start": 20,
+                "token_end": 23,
+                "entityLabel": "RML"
             },
+            {
+                "text": "adenopatias",
+                "start": 105,
+                "end": 116,
+                "token_start": 17,
+                "token_end": 17,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 20,
                 "head": 17,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Posteriormente presenta crisis tonico-clonica generalizada seguida de hemiparesia izquierda; se realiza TAC y RMN craneal, observandose una masa de pared gruesa y centro hipodenso de 4 cm de diametro en encrucijada temporo-parieto-occipital derecha. ",
+        "tokens": [
+            {
+                "text": "4 cm de diametro",
+                "start": 183,
+                "end": 199,
+                "token_start": 27,
+                "token_end": 30,
+                "entityLabel": "RML"
             },
+            {
+                "text": "masa",
+                "start": 140,
+                "end": 144,
+                "token_start": 19,
+                "token_end": 19,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 27,
                 "head": 19,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Mas tarde se reciben los resultados siguientes: linfocitos CD4+: 440/mL, carga viral VIH: 25.000 copias/ mL, alfafetoproteina normal y b-HCG: 650 mUI/mL (normal < 5). ",
+        "tokens": [
+            {
+                "text": "440/mL",
+                "start": 65,
+                "end": 71,
+                "token_start": 12,
+                "token_end": 14,
+                "entityLabel": "RML"
             },
+            {
+                "text": "linfocitos",
+                "start": 48,
+                "end": 58,
+                "token_start": 8,
+                "token_end": 8,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "25.000 copias/ mL",
+                "start": 90,
+                "end": 107,
+                "token_start": 20,
+                "token_end": 23,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "carga",
+                "start": 73,
+                "end": 78,
+                "token_start": 16,
+                "token_end": 16,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "normal",
+                "start": 126,
+                "end": 132,
+                "token_start": 26,
+                "token_end": 26,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "alfafetoproteina",
+                "start": 109,
+                "end": 125,
+                "token_start": 25,
+                "token_end": 25,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "650 mUI/mL",
+                "start": 142,
+                "end": 152,
+                "token_start": 30,
+                "token_end": 33,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "b-HCG",
+                "start": 135,
+                "end": 140,
+                "token_start": 28,
+                "token_end": 28,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 12,
                 "head": 8,
@@ -861,7 +838,70 @@
                 "child": 30,
                 "head": 28,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Los estudios microbiologicos en sangre, orina, esputo, brocoaspirado y puncion ganglionar fueron negativos para bacterias, micobacterias y hongos. ",
+        "tokens": [
+            {
+                "text": "negativos",
+                "start": 97,
+                "end": 106,
+                "token_start": 15,
+                "token_end": 15,
+                "entityLabel": "RML"
             },
+            {
+                "text": "micobacterias",
+                "start": 123,
+                "end": 136,
+                "token_start": 19,
+                "token_end": 19,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "estudios",
+                "start": 4,
+                "end": 12,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "puncion",
+                "start": 71,
+                "end": 78,
+                "token_start": 12,
+                "token_end": 12,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "hongos",
+                "start": 139,
+                "end": 145,
+                "token_start": 21,
+                "token_end": 21,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "brocoaspirado",
+                "start": 55,
+                "end": 68,
+                "token_start": 10,
+                "token_end": 10,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "bacterias",
+                "start": 112,
+                "end": 121,
+                "token_start": 17,
+                "token_end": 17,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 15,
                 "head": 19,
@@ -891,7 +931,38 @@
                 "child": 15,
                 "head": 17,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Las tinciones de muestras respiratorias fueron negativas para P. carinii (P. jiroveci). ",
+        "tokens": [
+            {
+                "text": "negativas",
+                "start": 47,
+                "end": 56,
+                "token_start": 6,
+                "token_end": 6,
+                "entityLabel": "RML"
             },
+            {
+                "text": "tinciones",
+                "start": 4,
+                "end": 13,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "P",
+                "start": 62,
+                "end": 63,
+                "token_start": 8,
+                "token_end": 8,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 6,
                 "head": 1,
@@ -901,7 +972,62 @@
                 "child": 6,
                 "head": 8,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Las serologias para Toxoplasma, virus hepatotropos y RPR fueron negativas; el antigeno criptococico fue negativo.    ",
+        "tokens": [
+            {
+                "text": "negativas",
+                "start": 64,
+                "end": 73,
+                "token_start": 10,
+                "token_end": 10,
+                "entityLabel": "RML"
             },
+            {
+                "text": "RPR",
+                "start": 53,
+                "end": 56,
+                "token_start": 8,
+                "token_end": 8,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "virus",
+                "start": 32,
+                "end": 37,
+                "token_start": 5,
+                "token_end": 5,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "Toxoplasma",
+                "start": 20,
+                "end": 30,
+                "token_start": 3,
+                "token_end": 3,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "negativo",
+                "start": 104,
+                "end": 112,
+                "token_start": 16,
+                "token_end": 16,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "antigeno",
+                "start": 78,
+                "end": 86,
+                "token_start": 13,
+                "token_end": 13,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 10,
                 "head": 8,
@@ -925,382 +1051,38 @@
         ]
     },
     {
-        "document": "Paciente varon de 89 anos sin antecedentes patologicos de interes que consulto por anorexia de mes y medio de evolucion acompanada de edema en manos y pies. Referia algun episodio de rectorragia. La exploracion fisica solo revelo el edema con fovea limitado a articulaciones metacarpofalangicas y metatarso falangicas. Con el diagnostico de sospecha de RS3PE se inicio terapia con prednisona 20 mg/24 horas, desapareciendo el edema completamente a los 5 dias de tratamiento. Dado que este que este sindrome puede aparecer asociado a otras patologias se realizo el estudio del paciente.    En las pruebas complementarias la hemoglobina era de Hb 10,3 g/dL, con VCM 94,5 fl. La bioquimica la glucosa, urea, creatinina, acido urico, calcio total, fosfato, colesterol, colesterol-HDL, colesterol-LDL, proteinas totales, GPT, LDH, GGT, Na, K eran normales. Cobalaminas y folatos normales. Beta-2-microglobulina normal. En el proteinograma aparecio una banda monoclonal a IgA lambda. La proteina C reactiva y la VSG eran normales. La interleucina 6 fue normal. Serologia de VIH negativa. El factor reumatoide, los anticuerpos antinucleares y los anticuerpos anticitoplasma neutrofilo fueron negativos. El PSA fue normal. El fenotipo HLA-B27 fue positivo. La proteinuria de Bence-Jones fue negativa. La colonoscopia fue normal. Las radiografias de manos y pies no mostraban lesiones erosivas. En la TAC toracica en el segmento posterior del LSD se apreciaba un infiltrado pulmonar que adoptaba una morfologia ramificada (tree inbud) y nodular; en el LM tambien se observaba un infiltrado de morfologia ramificada, nodular y una condensacion subsegmentaria con broncograma aereo; tractos pleuroparenquimatosos biapicales bronquiectasias cilindricas de pared fina en LII y con engrosamiento de lingula, y pleura. TAC abdominal vejiga urinaria con engrosamiento del suelo vesical, con multiples diverticulos, hipertrofia prostatica. La broncoscopia presento una traquea, y arbol bronquial izquierdo con signos inflamatorios cronicos, destacan diverticulos y placas antracosis en todo el arbol bronquial; a nivel del arbol bronquial derecho, en bronquio intermediario unos mm antes de llegar a la entrada LM se observa infiltracion mucosa y a la entrada de LM habia una masa de aspecto necrotico y muy friable que obstruia totalmente la entrada, no se realizo biopsia bronquial por sangrado. El estudio citologico del BAS revelo un frotis inflamatorio agudo. El cultivo de Lowestein del BAS fue positivo para Mycobacterium tuberculosis.  En la evolucion del paciente se observo que a los 5 dias de iniciar el tratamiento corticoideo desaparecio el edema de manos y pies, al mes se normalizo la hemoglobina. A los 4 meses de iniciar la prednisona se identifico al Mycobacterium tuberculosis pautandose isoniacida, rifampicina y pirazinamida, y suspendiendo el tratamiento corticoideo por la sospecha de enfermedad de Poncet. A los 3 meses de iniciar los tuberculostaticos y de retirar los corticoides reaparicieron el edema en manos y pies, por lo que se reintrodujo el tratamiento corticoideo.",
+        "document": "En las pruebas complementarias la hemoglobina era de Hb 10,3 g/dL, con VCM 94,5 fl. ",
         "tokens": [
             {
                 "text": "10,3 g/dL",
-                "start": 645,
-                "end": 654,
+                "start": 56,
+                "end": 65,
                 "token_start": 9,
                 "token_end": 12,
                 "entityLabel": "RML"
             },
             {
                 "text": "Hb",
-                "start": 642,
-                "end": 644,
+                "start": 53,
+                "end": 55,
                 "token_start": 8,
                 "token_end": 8,
                 "entityLabel": "EVENT"
             },
             {
                 "text": "94,5 fl",
-                "start": 664,
-                "end": 671,
+                "start": 75,
+                "end": 82,
                 "token_start": 16,
                 "token_end": 17,
                 "entityLabel": "RML"
             },
             {
                 "text": "VCM",
-                "start": 660,
-                "end": 663,
+                "start": 71,
+                "end": 74,
                 "token_start": 15,
                 "token_end": 15,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "normales",
-                "start": 842,
-                "end": 850,
-                "token_start": 36,
-                "token_end": 36,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "GPT",
-                "start": 816,
-                "end": 819,
-                "token_start": 26,
-                "token_end": 26,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "colesterol",
-                "start": 753,
-                "end": 763,
-                "token_start": 17,
-                "token_end": 17,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "Na",
-                "start": 831,
-                "end": 833,
-                "token_start": 32,
-                "token_end": 32,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "proteinas",
-                "start": 797,
-                "end": 806,
-                "token_start": 23,
-                "token_end": 23,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "calcio",
-                "start": 730,
-                "end": 736,
-                "token_start": 12,
-                "token_end": 12,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "LDH",
-                "start": 821,
-                "end": 824,
-                "token_start": 28,
-                "token_end": 28,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "fosfato",
-                "start": 744,
-                "end": 751,
-                "token_start": 15,
-                "token_end": 15,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "glucosa",
-                "start": 690,
-                "end": 697,
-                "token_start": 3,
-                "token_end": 3,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "creatinina",
-                "start": 705,
-                "end": 715,
-                "token_start": 7,
-                "token_end": 7,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "acido",
-                "start": 717,
-                "end": 722,
-                "token_start": 9,
-                "token_end": 9,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "colesterol-HDL",
-                "start": 765,
-                "end": 779,
-                "token_start": 19,
-                "token_end": 19,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "GGT",
-                "start": 826,
-                "end": 829,
-                "token_start": 30,
-                "token_end": 30,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "urea",
-                "start": 699,
-                "end": 703,
-                "token_start": 5,
-                "token_end": 5,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "K",
-                "start": 835,
-                "end": 836,
-                "token_start": 34,
-                "token_end": 34,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "colesterol-LDL",
-                "start": 781,
-                "end": 795,
-                "token_start": 21,
-                "token_end": 21,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "normales",
-                "start": 874,
-                "end": 882,
-                "token_start": 3,
-                "token_end": 3,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "Cobalaminas",
-                "start": 852,
-                "end": 863,
-                "token_start": 0,
-                "token_end": 0,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "folatos",
-                "start": 866,
-                "end": 873,
-                "token_start": 2,
-                "token_end": 2,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "normal",
-                "start": 906,
-                "end": 912,
-                "token_start": 5,
-                "token_end": 5,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "microglobulina",
-                "start": 891,
-                "end": 905,
-                "token_start": 4,
-                "token_end": 4,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "normales",
-                "start": 1015,
-                "end": 1023,
-                "token_start": 8,
-                "token_end": 8,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "VSG",
-                "start": 1006,
-                "end": 1009,
-                "token_start": 6,
-                "token_end": 6,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "proteina",
-                "start": 981,
-                "end": 989,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "normal",
-                "start": 1047,
-                "end": 1053,
-                "token_start": 4,
-                "token_end": 4,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "interleucina",
-                "start": 1028,
-                "end": 1040,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "negativa",
-                "start": 1072,
-                "end": 1080,
-                "token_start": 3,
-                "token_end": 3,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "Serologia",
-                "start": 1055,
-                "end": 1064,
-                "token_start": 0,
-                "token_end": 0,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "negativos",
-                "start": 1185,
-                "end": 1194,
-                "token_start": 13,
-                "token_end": 13,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "factor",
-                "start": 1085,
-                "end": 1091,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "anticuerpos",
-                "start": 1108,
-                "end": 1119,
-                "token_start": 5,
-                "token_end": 5,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "anticuerpos",
-                "start": 1140,
-                "end": 1151,
-                "token_start": 9,
-                "token_end": 9,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "normal",
-                "start": 1207,
-                "end": 1213,
-                "token_start": 3,
-                "token_end": 3,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "PSA",
-                "start": 1199,
-                "end": 1202,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "positivo",
-                "start": 1239,
-                "end": 1247,
-                "token_start": 4,
-                "token_end": 4,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "fenotipo",
-                "start": 1218,
-                "end": 1226,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "negativa",
-                "start": 1283,
-                "end": 1291,
-                "token_start": 5,
-                "token_end": 5,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "proteinuria",
-                "start": 1252,
-                "end": 1263,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "normal",
-                "start": 1313,
-                "end": 1319,
-                "token_start": 3,
-                "token_end": 3,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "colonoscopia",
-                "start": 1296,
-                "end": 1308,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "positivo",
-                "start": 2484,
-                "end": 2492,
-                "token_start": 7,
-                "token_end": 7,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "Mycobacterium",
-                "start": 2498,
-                "end": 2511,
-                "token_start": 9,
-                "token_end": 9,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "cultivo",
-                "start": 2451,
-                "end": 2458,
-                "token_start": 1,
-                "token_end": 1,
                 "entityLabel": "EVENT"
             }
         ],
@@ -1314,7 +1096,142 @@
                 "child": 16,
                 "head": 15,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "La bioquimica la glucosa, urea, creatinina, acido urico, calcio total, fosfato, colesterol, colesterol-HDL, colesterol-LDL, proteinas totales, GPT, LDH, GGT, Na, K eran normales. ",
+        "tokens": [
+            {
+                "text": "normales",
+                "start": 169,
+                "end": 177,
+                "token_start": 36,
+                "token_end": 36,
+                "entityLabel": "RML"
             },
+            {
+                "text": "GPT",
+                "start": 143,
+                "end": 146,
+                "token_start": 26,
+                "token_end": 26,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "colesterol",
+                "start": 80,
+                "end": 90,
+                "token_start": 17,
+                "token_end": 17,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "Na",
+                "start": 158,
+                "end": 160,
+                "token_start": 32,
+                "token_end": 32,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "proteinas",
+                "start": 124,
+                "end": 133,
+                "token_start": 23,
+                "token_end": 23,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "calcio",
+                "start": 57,
+                "end": 63,
+                "token_start": 12,
+                "token_end": 12,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "LDH",
+                "start": 148,
+                "end": 151,
+                "token_start": 28,
+                "token_end": 28,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "fosfato",
+                "start": 71,
+                "end": 78,
+                "token_start": 15,
+                "token_end": 15,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "glucosa",
+                "start": 17,
+                "end": 24,
+                "token_start": 3,
+                "token_end": 3,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "creatinina",
+                "start": 32,
+                "end": 42,
+                "token_start": 7,
+                "token_end": 7,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "acido",
+                "start": 44,
+                "end": 49,
+                "token_start": 9,
+                "token_end": 9,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "colesterol-HDL",
+                "start": 92,
+                "end": 106,
+                "token_start": 19,
+                "token_end": 19,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "GGT",
+                "start": 153,
+                "end": 156,
+                "token_start": 30,
+                "token_end": 30,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "urea",
+                "start": 26,
+                "end": 30,
+                "token_start": 5,
+                "token_end": 5,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "K",
+                "start": 162,
+                "end": 163,
+                "token_start": 34,
+                "token_end": 34,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "colesterol-LDL",
+                "start": 108,
+                "end": 122,
+                "token_start": 21,
+                "token_end": 21,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 36,
                 "head": 26,
@@ -1389,7 +1306,38 @@
                 "child": 36,
                 "head": 21,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Cobalaminas y folatos normales. ",
+        "tokens": [
+            {
+                "text": "normales",
+                "start": 22,
+                "end": 30,
+                "token_start": 3,
+                "token_end": 3,
+                "entityLabel": "RML"
             },
+            {
+                "text": "Cobalaminas",
+                "start": 0,
+                "end": 11,
+                "token_start": 0,
+                "token_end": 0,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "folatos",
+                "start": 14,
+                "end": 21,
+                "token_start": 2,
+                "token_end": 2,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 3,
                 "head": 0,
@@ -1399,12 +1347,66 @@
                 "child": 3,
                 "head": 2,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Beta-2-microglobulina normal. ",
+        "tokens": [
+            {
+                "text": "normal",
+                "start": 22,
+                "end": 28,
+                "token_start": 5,
+                "token_end": 5,
+                "entityLabel": "RML"
             },
+            {
+                "text": "microglobulina",
+                "start": 7,
+                "end": 21,
+                "token_start": 4,
+                "token_end": 4,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 5,
                 "head": 4,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "La proteina C reactiva y la VSG eran normales. ",
+        "tokens": [
+            {
+                "text": "normales",
+                "start": 37,
+                "end": 45,
+                "token_start": 8,
+                "token_end": 8,
+                "entityLabel": "RML"
             },
+            {
+                "text": "VSG",
+                "start": 28,
+                "end": 31,
+                "token_start": 6,
+                "token_end": 6,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "proteina",
+                "start": 3,
+                "end": 11,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 8,
                 "head": 6,
@@ -1414,17 +1416,102 @@
                 "child": 8,
                 "head": 1,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "La interleucina 6 fue normal. ",
+        "tokens": [
+            {
+                "text": "normal",
+                "start": 22,
+                "end": 28,
+                "token_start": 4,
+                "token_end": 4,
+                "entityLabel": "RML"
             },
+            {
+                "text": "interleucina",
+                "start": 3,
+                "end": 15,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 4,
                 "head": 1,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Serologia de VIH negativa. ",
+        "tokens": [
+            {
+                "text": "negativa",
+                "start": 17,
+                "end": 25,
+                "token_start": 3,
+                "token_end": 3,
+                "entityLabel": "RML"
             },
+            {
+                "text": "Serologia",
+                "start": 0,
+                "end": 9,
+                "token_start": 0,
+                "token_end": 0,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 3,
                 "head": 0,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "El factor reumatoide, los anticuerpos antinucleares y los anticuerpos anticitoplasma neutrofilo fueron negativos. ",
+        "tokens": [
+            {
+                "text": "negativos",
+                "start": 103,
+                "end": 112,
+                "token_start": 13,
+                "token_end": 13,
+                "entityLabel": "RML"
             },
+            {
+                "text": "factor",
+                "start": 3,
+                "end": 9,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "anticuerpos",
+                "start": 26,
+                "end": 37,
+                "token_start": 5,
+                "token_end": 5,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "anticuerpos",
+                "start": 58,
+                "end": 69,
+                "token_start": 9,
+                "token_end": 9,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 13,
                 "head": 1,
@@ -1439,27 +1526,150 @@
                 "child": 13,
                 "head": 9,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "El PSA fue normal. ",
+        "tokens": [
+            {
+                "text": "normal",
+                "start": 11,
+                "end": 17,
+                "token_start": 3,
+                "token_end": 3,
+                "entityLabel": "RML"
             },
+            {
+                "text": "PSA",
+                "start": 3,
+                "end": 6,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 3,
                 "head": 1,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "El fenotipo HLA-B27 fue positivo. ",
+        "tokens": [
+            {
+                "text": "positivo",
+                "start": 24,
+                "end": 32,
+                "token_start": 4,
+                "token_end": 4,
+                "entityLabel": "RML"
             },
+            {
+                "text": "fenotipo",
+                "start": 3,
+                "end": 11,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 4,
                 "head": 1,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "La proteinuria de Bence-Jones fue negativa. ",
+        "tokens": [
+            {
+                "text": "negativa",
+                "start": 34,
+                "end": 42,
+                "token_start": 5,
+                "token_end": 5,
+                "entityLabel": "RML"
             },
+            {
+                "text": "proteinuria",
+                "start": 3,
+                "end": 14,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 5,
                 "head": 1,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "La colonoscopia fue normal. ",
+        "tokens": [
+            {
+                "text": "normal",
+                "start": 20,
+                "end": 26,
+                "token_start": 3,
+                "token_end": 3,
+                "entityLabel": "RML"
             },
+            {
+                "text": "colonoscopia",
+                "start": 3,
+                "end": 15,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 3,
                 "head": 1,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "El cultivo de Lowestein del BAS fue positivo para Mycobacterium tuberculosis.  ",
+        "tokens": [
+            {
+                "text": "positivo",
+                "start": 36,
+                "end": 44,
+                "token_start": 7,
+                "token_end": 7,
+                "entityLabel": "RML"
             },
+            {
+                "text": "Mycobacterium",
+                "start": 50,
+                "end": 63,
+                "token_start": 9,
+                "token_end": 9,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "cultivo",
+                "start": 3,
+                "end": 10,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 7,
                 "head": 9,
@@ -1473,47 +1683,23 @@
         ]
     },
     {
-        "document": "Mujer de 45 anos que es remitida desde el servicio de neurocirugia por perdida de vision subita bilateral tras cirugia de derivacion ventriculoperitoneal de un higroma subdural temporal y absceso occipital craneal. Todo ello resultado de una complicacion postquirurgica subaguda. Quince dias antes habia sido intervenida de descompresion preventiva medular por Malformacion de Arnold-Chiari I.  La paciente contaba con una clinica de 16 anos de evolucion, con cefaleas de intensidad leve, inestabilidad, mareos rotatorios, vomitos autolimitados de duracion variable y nistagmus vertical leve desde hacia un ano. Este ultimo ayudo a la sospecha y diagnostico de la malformacion congenita, ya que el resto de su sintomatologia la relacionaba con la colitis ulcerosa que sufria hacia anos.  La agudeza visual (AV) en la primera exploracion fue de movimiento de manos en ambos ojos. Las reacciones pupilares fueron de 2+ sin defecto pupilar aferente relativo. Presentaba un nistagmus en sacudida hacia abajo de frecuencia alta y amplitud media. El fondo de ojo mostro hemorragia retrohialoidea premacular y vitrea bilateral, confirmada con tomografia optica de coherencia (OCT) y ecografia ocular. Todos estos hechos fueron compatibles con ST.    Se le realizo una hialoidectomia posterior en su ojo derecho (OD) previa instilacion de colirio anestesico y uso de laser Nd:YAG 15 pulsos (rango de 4-7 mJ/pulso) en la parte mas inferior del hematoma. La hialoides posterior se rompio y dreno inmediatamente sangre a la cavidad vitrea. Se opta por una actitud expectante en su ojo izquierdo (OI).  La AV al ano, tras varias revisiones con notable mejoria, era de 0,6 en el OD y 0,1 en el OI. La OCT revelo una membrana epirretiniana premacular de reciente aparicion en su OI. La frecuencia del nistagmus bajo y la amplitud paso a ser leve. El hemovitreo bilateral seguia en reabsorcion de forma lenta y progresiva.  La enferma rechazo cirugia ocular alguna, estando satisfecha con el resultado visual alcanzado.",
+        "document": "Las reacciones pupilares fueron de 2+ sin defecto pupilar aferente relativo. ",
         "tokens": [
             {
                 "text": "2+",
-                "start": 914,
-                "end": 916,
+                "start": 35,
+                "end": 37,
                 "token_start": 5,
                 "token_end": 6,
                 "entityLabel": "RML"
             },
             {
                 "text": "reacciones",
-                "start": 883,
-                "end": 893,
+                "start": 4,
+                "end": 14,
                 "token_start": 1,
                 "token_end": 1,
                 "entityLabel": "EVENT"
-            },
-            {
-                "text": "0,6",
-                "start": 1656,
-                "end": 1659,
-                "token_start": 14,
-                "token_end": 14,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "AV",
-                "start": 1594,
-                "end": 1596,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "0,1",
-                "start": 1671,
-                "end": 1674,
-                "token_start": 19,
-                "token_end": 19,
-                "entityLabel": "RML"
             }
         ],
         "relations": [
@@ -1521,7 +1707,38 @@
                 "child": 5,
                 "head": 1,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "La AV al ano, tras varias revisiones con notable mejoria, era de 0,6 en el OD y 0,1 en el OI. ",
+        "tokens": [
+            {
+                "text": "0,6",
+                "start": 65,
+                "end": 68,
+                "token_start": 14,
+                "token_end": 14,
+                "entityLabel": "RML"
             },
+            {
+                "text": "AV",
+                "start": 3,
+                "end": 5,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "0,1",
+                "start": 80,
+                "end": 83,
+                "token_start": 19,
+                "token_end": 19,
+                "entityLabel": "RML"
+            }
+        ],
+        "relations": [
             {
                 "child": 14,
                 "head": 1,
@@ -1535,20 +1752,20 @@
         ]
     },
     {
-        "document": "Varon de 31 anos con antecedentes a destacar de esplenectomia postraumatica 14 anos antes y sobrepeso. Presento sepsis por neumococo que provoco fallo multiorganico (renal, respiratorio, hematologico y hemodinamico) e ingreso en Unidad de Cuidados Intensivos (UCI). Permanecio intubado durante 11 dias y posteriormente fue trasladado a planta de Medicina Interna. Debido a la mala perfusion secundaria a la sepsis aparecieron lesiones necroticas en extremidades superiores y principalmente inferiores distales. Inicialmente valorado por Cirugia Vascular, se indico tratamiento con prostaglandinas durante 21 dias. Tras mejoria del estado general y desaparicion del riesgo vital y tras 7 semanas ingresado en Medicina Interna, fue trasladado a Cirugia Plastica para tratamiento de las lesiones necroticas residuales.  Al ingreso en nuestro Servicio presentaba multiples lesiones de pequeno tamano en antebrazos, manos y muslos que epitelizaron adecuadamente con tratamiento topico. Como complicacion de mayor relevancia existia necrosis plantar izquierda con amplia escara en zona muda plantar que fue desbridada en sala de hospitalizacion, anestesia plantar izquierda, necrosis seca de 3o, 4o y 5o dedos del pie derecho y ulcera pretibial derecha de 10 x 5 cm.    Realizamos intervencion quirurgica para desbridamiento plantar izquierdo y pretibial derecho y desbridamientos diarios en sala para reducir la mayor parte de los esfacelos y escaras. Tras 20 dias de desbridamientos diarios en la habitacion del paciente, sin anestesia local (no presentaba dolor debido a la anestesia plantar y a que era tejido necrotico), se inicio terapia V.A.C.(r) en planta del pie izquierdo para favorecer granulacion, evitar sobreinfeccion y permitir una cobertura posterior del defecto. Se aplicaron esponjas de poliuretano (VAC GranuFoam(r)), con presion negativa continua de 125 mmHg las primeras 48h y posteriormente se continuo con presion negativa intermitente (5 minutos con aspiracion y 2 sin aspiracion). La primera semana se utilizaron esponjas con plata (VAC GranuFoam Silver(r) ) para mejorar el efecto antibacteriano dada la persistencia de esfacelos. El contenedor del VAC(r) recogio abundante exudado durante el tratamiento. Empleamos el Sistema VAC ATS(r) Therapy. El tratamiento completo duro 20 dias y los cambios de esponjas se realizaron 3 veces por semana.    El paciente pudo seguir realizando ejercicios de fisioterapia durante el tratamiento, transportando comodamente su sistema VAC(r) en la mano, cuando acudia a las sesiones en silla de ruedas.  La evolucion fue muy favorable, con desaparicion de los esfacelos residuales, formacion de tejido de granulacion de color rojo vivo, sin aparicion de sobreinfeccion y obteniendose un lecho adecuado para recibir un injerto de piel.    Una semana despues de retirar la terapia VAC(r) el paciente fue intervenido para cobertura del defecto plantar izquierdo con injerto de piel de espesor parcial tomado del muslo del mismo lado, amputacion de 3o, 4o y 5o dedos del pie derecho e injerto de piel sobre defecto residual pretibial derecho. Los injertos prendieron adecuadamente y las heridas cicatrizaron bien.    El paciente fue dado de alta tras 4 meses y medio de ingreso hospitalario y 2 semanas despues de la intervencion de cobertura con injerto de piel. Al alta deambulaba con ayuda de muletas. Seis semanas despues del alta deambulaba de forma autonoma con ayuda de una plantilla especial colocada por el podologo, aunque requiere cuidados habituales por el podologo debido a la anestesia plantar que obliga a un seguimiento estricto de la piel de esta zona.",
+        "document": "Como complicacion de mayor relevancia existia necrosis plantar izquierda con amplia escara en zona muda plantar que fue desbridada en sala de hospitalizacion, anestesia plantar izquierda, necrosis seca de 3o, 4o y 5o dedos del pie derecho y ulcera pretibial derecha de 10 x 5 cm.    ",
         "tokens": [
             {
                 "text": "10 x 5 cm",
-                "start": 1250,
-                "end": 1259,
+                "start": 269,
+                "end": 278,
                 "token_start": 45,
                 "token_end": 48,
                 "entityLabel": "RML"
             },
             {
                 "text": "ulcera",
-                "start": 1222,
-                "end": 1228,
+                "start": 241,
+                "end": 247,
                 "token_start": 41,
                 "token_end": 41,
                 "entityLabel": "EVENT"
@@ -1563,79 +1780,59 @@
         ]
     },
     {
-        "document": "CJRM. Varon de 29 anos. Hijo mediano de tres hermanos (los otros dos, estan sanos). Casado y sin hijos. No bebedor, ni fumador. Amigdalitis de repeticion en la infancia, siendo operado a los 6 anos. Asintomatico. Habito intestinal normal. Analitica normal con ligera elevacion persistente de las transaminasas. TTG positiva (2,46). DQ2 (-) y DQ8 (+). La biopsia duodenal mostro atrofia moderada de las vellosidades intestinales, acompanada de infiltrado inflamatorio importante, a nivel de la lamina propia (estadio 3b de Marsh). Esta con DSG desde hace 2 anos, con buena respuesta clinica y analitica.",
+        "document": "Analitica normal con ligera elevacion persistente de las transaminasas. ",
         "tokens": [
             {
                 "text": "normal",
-                "start": 249,
-                "end": 255,
+                "start": 10,
+                "end": 16,
                 "token_start": 1,
                 "token_end": 1,
                 "entityLabel": "RML"
             },
             {
                 "text": "Analitica",
-                "start": 239,
-                "end": 248,
+                "start": 0,
+                "end": 9,
                 "token_start": 0,
                 "token_end": 0,
                 "entityLabel": "EVENT"
-            },
+            }
+        ],
+        "relations": [
+            {
+                "child": 1,
+                "head": 0,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "TTG positiva (2,46). ",
+        "tokens": [
             {
                 "text": "positiva",
-                "start": 315,
-                "end": 323,
+                "start": 4,
+                "end": 12,
                 "token_start": 1,
                 "token_end": 1,
                 "entityLabel": "RML"
             },
             {
                 "text": "TTG",
-                "start": 311,
-                "end": 314,
+                "start": 0,
+                "end": 3,
                 "token_start": 0,
                 "token_end": 0,
                 "entityLabel": "EVENT"
             },
             {
                 "text": "2,46",
-                "start": 325,
-                "end": 329,
+                "start": 14,
+                "end": 18,
                 "token_start": 3,
                 "token_end": 3,
                 "entityLabel": "RML"
-            },
-            {
-                "text": "-",
-                "start": 337,
-                "end": 338,
-                "token_start": 2,
-                "token_end": 2,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "DQ2",
-                "start": 332,
-                "end": 335,
-                "token_start": 0,
-                "token_end": 0,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "+",
-                "start": 347,
-                "end": 348,
-                "token_start": 7,
-                "token_end": 7,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "DQ8",
-                "start": 342,
-                "end": 345,
-                "token_start": 5,
-                "token_end": 5,
-                "entityLabel": "EVENT"
             }
         ],
         "relations": [
@@ -1645,15 +1842,49 @@
                 "relationLabel": "REL"
             },
             {
-                "child": 1,
-                "head": 0,
-                "relationLabel": "REL"
-            },
-            {
                 "child": 3,
                 "head": 0,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "DQ2 (-) y DQ8 (+). ",
+        "tokens": [
+            {
+                "text": "-",
+                "start": 5,
+                "end": 6,
+                "token_start": 2,
+                "token_end": 2,
+                "entityLabel": "RML"
             },
+            {
+                "text": "DQ2",
+                "start": 0,
+                "end": 3,
+                "token_start": 0,
+                "token_end": 0,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "+",
+                "start": 15,
+                "end": 16,
+                "token_start": 7,
+                "token_end": 7,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "DQ8",
+                "start": 10,
+                "end": 13,
+                "token_start": 5,
+                "token_end": 5,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 2,
                 "head": 0,
@@ -1667,52 +1898,20 @@
         ]
     },
     {
-        "document": "Se trata de una mujer de 53 anos, con antecedentes de migranas. Presentaba ciatica refractaria a tratamiento y hernia discal L5-S1.  Tras consentimiento informado y estudio preoperatorio sin contraindicaciones, se practico microdiscectomia L5-S1.  La tecnica operatoria, incluyendo preparacion y posicionamiento, fue como sigue:  - Anestesia  Se practico una anestesia general, con intubacion orotraqueal. La induccion se realizo mediante Propofol, la analgesia con Renifentanilo (agonista de los receptores m opioides, con una potencia analgesica similar al fentanilo), y la relajacion con Besilato de atracurio (agente bloqueador neuromuscular, competitivo o no despolarizante). Se utilizo Sevofluorano como anestesico volatil. Durante la intervencion se administraron 100 mg de Tramadol (Analgesico de accion central, agonista puro no selectivo de los receptores opioides, u, delta y kappa ) y 25 mg de Dexketoprofeno trometamol. La duracion de la anestesia fue de 1 hora 50 minutos sin registrar, durante la misma, complicaciones de ningun tipo.  - Colocacion  Se intervino en posicion mahometana, con la region pectoral y las crestas iliacas apoyadas en sendas almohadas especiales, con escotaduras centrales para evitar decubitos de abdomen y mamas.    La cabeza fue apoyada en un sistema almohadillado en forma de rosco abierto cranealmente. Para evitar apoyo ocular, los ojos se protegieron con lubricante y sendas almohadillas oculares sujetas mediante una venda colocada circularmente sobre la cabeza a la altura de ambos ojos.  Las extremidades inferiores se almohadillaron en las regiones de decubito (ambas rodillas). Se comprobo la presencia de pulso pedio y tibial posterior en ambos lados. La posicion del dorso del paciente fue paralela al suelo.  - Tecnica quirurgica  Se realizo mediante microcirugia convencional con incision de dos traveses de dedo en la linea media, seccion de aponeurosis comun sacro-lumbar, retraccion de musculatura paravertebral, flavectomia, diseccion de la raiz y escision de hernia discal extraida. La perdida hematica fue minima y no se administro sangre. Se utilizo una pequena cantidad de agua oxigenada como hemostatico (alrededor de 5 cc).  - Postoperatorio inmediato  Al despertar de la anestesia, la paciente comunico que no veia absolutamente nada por ninguno de los dos ojos. Se solicito colaboracion a Oftalmologia, sin hallar patologia. La tension ocular fue normal. El reflejo fotomotor y consensual estaban conservados.  Se practico TC cerebral de urgencia, en el que se aprecio una imagen en circulacion coroidea intraventricular derecha compatible con burbuja de gas. Otra imagen yuxtaosea occipital derecha, se considero dudosa.    Se realizo una RNM craneal, que mostro un incremento difuso de la senal en secuencias T2 en areas posteriores de ambos lobulos occipitales. La angio-RNM fue normal.    El cuadro fue interpretado como de origen vascular, bien posicional, o bien derivado de los antecedentes migranosos de la paciente, siendo sometida empiricamente a tratamiento con dexametasona y vasodilatadores.  A las 6 horas refirio percibir formas cromaticas indistinguibles y tenues, apareciendo reflejo de amenaza.  A la manana siguiente (12 horas tras la intervencion), referia haber recuperado la vision, si bien percibia halos cromaticos alrededor de las figuras que se le presentaban. Estas discromatopsias desaparecieron en 24 horas. Una RNM de control mostro mejoria importante de las imagenes occipitales vistas en la RNM previa.    Los controles posteriores (al mes de la cirugia) mostraron normalidad visual.",
+        "document": "La tension ocular fue normal. ",
         "tokens": [
             {
                 "text": "normal",
-                "start": 2416,
-                "end": 2422,
+                "start": 22,
+                "end": 28,
                 "token_start": 4,
                 "token_end": 4,
                 "entityLabel": "RML"
             },
             {
                 "text": "tension",
-                "start": 2397,
-                "end": 2404,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "normal",
-                "start": 2851,
-                "end": 2857,
-                "token_start": 3,
-                "token_end": 3,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "angio-RNM",
-                "start": 2837,
-                "end": 2846,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "normalidad visual",
-                "start": 3566,
-                "end": 3583,
-                "token_start": 11,
-                "token_end": 12,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "controles",
-                "start": 3511,
-                "end": 3520,
+                "start": 3,
+                "end": 10,
                 "token_start": 1,
                 "token_end": 1,
                 "entityLabel": "EVENT"
@@ -1723,12 +1922,58 @@
                 "child": 4,
                 "head": 1,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "La angio-RNM fue normal.    ",
+        "tokens": [
+            {
+                "text": "normal",
+                "start": 17,
+                "end": 23,
+                "token_start": 3,
+                "token_end": 3,
+                "entityLabel": "RML"
             },
+            {
+                "text": "angio-RNM",
+                "start": 3,
+                "end": 12,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 3,
                 "head": 1,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Los controles posteriores (al mes de la cirugia) mostraron normalidad visual.",
+        "tokens": [
+            {
+                "text": "normalidad visual",
+                "start": 59,
+                "end": 76,
+                "token_start": 11,
+                "token_end": 12,
+                "entityLabel": "RML"
             },
+            {
+                "text": "controles",
+                "start": 4,
+                "end": 13,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 11,
                 "head": 1,
@@ -1737,7 +1982,7 @@
         ]
     },
     {
-        "document": "Mujer de 51 anos de edad, con antecedentes de anexectomia unilateral por endometriosis, que tras 24 horas de evolucion presenta fiebre de hasta 40 oC y odinofagia, remitiendo dicha sintomatologia parcialmente con antiinflamatorios no esteroideos (AINE). Posteriormente aparecen vomitos y varias deposiciones diarreicas, con persistencia del sindrome febril, por lo que acude al centro de salud. Tras su valoracion medica se prescribe tratamiento antitermico y observacion domiciliaria. Horas despues sufre un empeoramiento del estado general, con hipotension, refiriendo ademas cefalea y dorsalgia, por lo que se avisa al Servicio de Urgencias, que decide su traslado al hospital. En la exploracion fisica destaca un regular estado general, taquipnea en reposo y taquicardia, no pudiendo captarse la presion arterial, asi como tampoco resulta posible palpar los pulsos perifericos radiales. No presenta rigidez de nuca ni focalidad neurologica. Se realizan analitica y gasometria, que ponen de manifiesto una marcada leucocitopenia (2.440/ml) y acidosis metabolica (pH 7,21; HCO3 14 mmol/l; EB -11,1 mmol/l). La paciente ingresa en la Unidad de Cuidados Intensivos (UCI), donde a pesar de recibir tratamiento con corticoides y antibioticoterapia intravenosa empeora y fallece 2 horas mas tarde, tras la realizacion de maniobras de reanimacion cardiopulmonar. Debido a la evolucion torpida y al origen incierto del cuadro de shock, no se certifica la defuncion.  Hallazgos de la autopsia  Como hallazgos significativos, en el examen externo destacan un exantema cutaneo generalizado, mas acusado a nivel cefalico y en la cara anterior del tercio superior del torax, y petequias en la conjuntiva tarsal de ambos parpados inferiores.    En el examen interno, macroscopicamente se aprecia:  - Congestion pulmonar moderada con edema pulmonar importante de caracteristicas alveolar e intersticial con espuma bronquial.  - Derrame pleural derecho. Derrame pericardico leve.  - Fluido exudativo en tejido subcutaneo retromamario de ambos lados, de aspecto purulento.  - Higado de aspecto esteatosico con punteado hemorragico.  - Ambas glandulas suprarrenales con medula de aspecto congestivo-hemorragico.    - El encefalo presenta un aspecto congestivo y edematoso generalizado, con hallazgo casual de un quiste en el lobulo parietal izquierdo.    Se remiten para estudios toxicologico, microbiologico e histopatologico muestras de encefalo, pulmon, higado, bazo, suprarrenales, corazon, sangre periferica, humor vitreo, liquido pericardico, contenido intestinal, frotis bronquial, derrame pleural e hisopo impregnado del exudado subcutaneo del pectoral derecho.  Los resultados del estudio microbiologico realizado mediante tecnicas antigenicas, cultivo y reaccion en cadena de la polimerasa (PCR) en tiempo real detectan la presencia de N. meningitidis serogrupo C en sangre periferica, suero y, en escasa cantidad, a nivel encefalico. Se realizan la caracterizacion epidemiologica de la cepa y el estudio de resistencia a antibioticos mediante concentracion minima inhibitoria (CMI).  A nivel histopatologico se describen como hallazgos en el encefalo congestion y edema, asi como la existencia de un meningioma transicional-psamomatoso. Ambas suprarrenales presentan hemorragia grave; el higado muestra signos sugestivos de shock en fase inicial, y a nivel renal hay alteraciones compatibles con CID. Ademas, se diagnostica esplenomegalia y cierta miocarditis neutrofilica.  El estudio toxicologico muestra tan solo resultado positivo para dipirona o metamizol.  Basandose en los hallazgos descritos se establecen como causas de la muerte: fallo multiorganico producido por una septicemia fulminante por meningococo (N. meningitidis serogrupo C) y sindrome de Waterhouse-Friderichsen.",
+        "document": "Mujer de 51 anos de edad, con antecedentes de anexectomia unilateral por endometriosis, que tras 24 horas de evolucion presenta fiebre de hasta 40 oC y odinofagia, remitiendo dicha sintomatologia parcialmente con antiinflamatorios no esteroideos (AINE). ",
         "tokens": [
             {
                 "text": "40 oC",
@@ -1754,102 +1999,6 @@
                 "token_start": 22,
                 "token_end": 22,
                 "entityLabel": "EVENT"
-            },
-            {
-                "text": "2.440/ml",
-                "start": 1033,
-                "end": 1041,
-                "token_start": 14,
-                "token_end": 16,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "leucocitopenia",
-                "start": 1017,
-                "end": 1031,
-                "token_start": 12,
-                "token_end": 12,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "7,21",
-                "start": 1069,
-                "end": 1073,
-                "token_start": 23,
-                "token_end": 23,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "pH",
-                "start": 1066,
-                "end": 1068,
-                "token_start": 22,
-                "token_end": 22,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "14 mmol/l",
-                "start": 1080,
-                "end": 1089,
-                "token_start": 26,
-                "token_end": 29,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "HCO3",
-                "start": 1075,
-                "end": 1079,
-                "token_start": 25,
-                "token_end": 25,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "11,1 mmol/l",
-                "start": 1095,
-                "end": 1106,
-                "token_start": 33,
-                "token_end": 36,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "EB",
-                "start": 1091,
-                "end": 1093,
-                "token_start": 31,
-                "token_end": 31,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "resultado positivo",
-                "start": 3512,
-                "end": 3530,
-                "token_start": 6,
-                "token_end": 7,
-                "entityLabel": "RML"
-            },
-            {
-                "text": "dipirona",
-                "start": 3536,
-                "end": 3544,
-                "token_start": 9,
-                "token_end": 9,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "metamizol",
-                "start": 3547,
-                "end": 3556,
-                "token_start": 11,
-                "token_end": 11,
-                "entityLabel": "EVENT"
-            },
-            {
-                "text": "estudio",
-                "start": 3474,
-                "end": 3481,
-                "token_start": 1,
-                "token_end": 1,
-                "entityLabel": "EVENT"
             }
         ],
         "relations": [
@@ -1857,7 +2006,78 @@
                 "child": 25,
                 "head": 22,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Se realizan analitica y gasometria, que ponen de manifiesto una marcada leucocitopenia (2.440/ml) y acidosis metabolica (pH 7,21; HCO3 14 mmol/l; EB -11,1 mmol/l). ",
+        "tokens": [
+            {
+                "text": "2.440/ml",
+                "start": 88,
+                "end": 96,
+                "token_start": 14,
+                "token_end": 16,
+                "entityLabel": "RML"
             },
+            {
+                "text": "leucocitopenia",
+                "start": 72,
+                "end": 86,
+                "token_start": 12,
+                "token_end": 12,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "7,21",
+                "start": 124,
+                "end": 128,
+                "token_start": 23,
+                "token_end": 23,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "pH",
+                "start": 121,
+                "end": 123,
+                "token_start": 22,
+                "token_end": 22,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "14 mmol/l",
+                "start": 135,
+                "end": 144,
+                "token_start": 26,
+                "token_end": 29,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "HCO3",
+                "start": 130,
+                "end": 134,
+                "token_start": 25,
+                "token_end": 25,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "11,1 mmol/l",
+                "start": 150,
+                "end": 161,
+                "token_start": 33,
+                "token_end": 36,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "EB",
+                "start": 146,
+                "end": 148,
+                "token_start": 31,
+                "token_end": 31,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 14,
                 "head": 12,
@@ -1877,7 +2097,46 @@
                 "child": 33,
                 "head": 31,
                 "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "El estudio toxicologico muestra tan solo resultado positivo para dipirona o metamizol.  ",
+        "tokens": [
+            {
+                "text": "resultado positivo",
+                "start": 41,
+                "end": 59,
+                "token_start": 6,
+                "token_end": 7,
+                "entityLabel": "RML"
             },
+            {
+                "text": "dipirona",
+                "start": 65,
+                "end": 73,
+                "token_start": 9,
+                "token_end": 9,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "metamizol",
+                "start": 76,
+                "end": 85,
+                "token_start": 11,
+                "token_end": 11,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "estudio",
+                "start": 3,
+                "end": 10,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
             {
                 "child": 6,
                 "head": 9,
