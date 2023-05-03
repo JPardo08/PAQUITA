@@ -1,0 +1,169 @@
+1-1	0-13	KONTSULTARAKO
+1-2	14-22	ARRAZOIA
+1-3	22-23	:
+1-4	27-29	67
+1-5	30-36	urteko
+1-6	37-47	gizonezkoa
+1-7	48-60	anbulategiko
+1-8	61-64	ORL
+1-9	65-76	kontsultara
+1-10	77-82	dator
+1-11	82-83	,
+1-12	84-93	ezkerreko
+1-13	94-99	sudur
+1-14	100-107	zulotik
+1-15	108-118	errinorrea
+1-16	119-124	urtsu
+1-17	125-132	jarraia
+1-18	133-134	3
+1-19	135-146	hilabetetan
+1-20	147-152	zehar
+1-21	153-164	izateagatik
+1-22	164-165	.
+
+2-1	169-171	Ez
+2-2	172-174	du
+2-3	175-184	bestelako
+2-4	185-195	sintomarik
+2-5	196-200	ezta
+2-6	201-211	sintomekin
+2-7	212-227	erlazionaturiko
+2-8	228-237	aurrekari
+2-9	238-247	berezirik
+2-10	247-248	.
+
+3-1	252-261	AURREKARI
+3-2	262-273	PERTSONALAK
+3-3	273-274	:
+3-4	278-280	67
+3-5	281-287	urteko
+3-6	288-298	gizonezkoa
+3-7	298-299	.
+
+4-1	303-305	Ez
+4-2	306-308	du
+4-3	309-316	alergia
+4-4	317-325	ezagunik
+4-5	325-326	.
+
+5-1	330-343	Hipertentsioa
+5-2	343-344	.
+
+6-1	348-356	Diabetes
+6-2	357-365	mellitus
+6-3	366-378	ez-intsulina
+6-4	379-387	menpekoa
+6-5	387-388	.
+
+7-1	392-411	Hiperkolesterolemia
+7-2	411-412	.
+
+8-1	416-426	Prostatako
+8-2	427-438	hiperplasia
+8-3	438-439	.
+
+9-1	443-452	Errinitis
+9-2	453-462	alergikoa
+9-3	462-463	.
+
+10-1	467-472	Ohiko
+10-2	473-484	tratamendua
+10-3	484-485	:
+10-4	486-497	candesartan
+10-5	497-498	,
+10-6	499-509	metformina
+10-7	509-510	,
+10-8	511-523	simvastatina
+10-9	523-524	,
+10-10	525-536	esomeprazol
+10-11	536-537	,
+10-12	538-550	lormetazepam
+10-13	550-551	.
+
+11-1	555-558	ORL
+11-2	559-566	mailako
+11-3	567-574	MIAKETA
+11-4	574-575	:
+11-5	579-583	Buru
+11-6	584-587	eta
+11-7	588-593	lepoa
+11-8	593-594	:
+11-9	595-602	normala
+11-10	602-603	.
+
+12-1	607-611	Ahoa
+12-2	612-615	eta
+12-3	616-627	orofaringea
+12-4	627-628	:
+12-5	629-636	normala
+12-6	636-637	.
+
+13-1	641-648	Aurreko
+13-2	649-661	errinoskopia
+13-3	661-662	:
+13-4	663-670	normala
+13-5	670-671	.
+
+14-1	675-680	FROGA
+14-2	681-691	OSAGARRIAK
+14-3	691-692	:
+14-4	696-705	Sinuetako
+14-5	706-720	ordenagailuzko
+14-6	721-731	tomografia
+14-7	732-733	(
+14-8	733-735	OT
+14-9	735-736	)
+14-10	736-737	:
+14-11	738-749	erretentzio
+14-12	750-757	kisteak
+14-13	758-762	sinu
+14-14	763-775	maxilarretan
+14-15	775-776	,
+14-16	777-794	sudur-trenkadaren
+14-17	795-807	desbideratze
+14-18	808-813	arina
+14-19	814-817	eta
+14-20	818-827	korneteen
+14-21	828-839	hipertrofia
+14-22	839-840	.
+
+15-1	843-855	Gainontzekoa
+15-2	855-856	:
+15-3	857-864	normala
+15-4	864-865	.
+
+16-1	869-876	Miaketa
+16-2	877-880	hau
+16-3	881-883	ez
+16-4	884-886	da
+16-5	887-893	likido
+16-6	894-912	zefalorrakideoaren
+16-7	913-920	fistula
+16-8	921-932	baztertzeko
+16-9	933-944	baliogarria
+16-10	944-945	.
+
+17-1	949-953	Beta
+17-2	954-959	traza
+17-3	960-961	(
+17-4	961-966	sudur
+17-5	967-977	isuariaren
+17-6	978-986	analisia
+17-7	986-987	)
+17-8	987-988	:
+17-9	989-993	42.9
+17-10	994-995	(
+17-11	995-1004	positiboa
+17-12	1004-1005	)
+17-13	1005-1006	.
+
+18-1	1010-1015	SUSMO
+18-2	1016-1028	DIAGNOSTIKOA
+18-3	1028-1029	:
+18-4	1033-1040	Aurreko
+18-5	1041-1053	garun-hobiko
+18-6	1054-1061	LZR-zko
+18-7	1062-1070	fistulak
+18-8	1071-1080	eraginiko
+18-9	1081-1096	errinolikuorrea
+18-10	1096-1097	.

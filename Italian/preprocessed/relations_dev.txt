@@ -1,0 +1,3131 @@
+[
+    {
+        "document": "All'ingresso apiretico, parametri nella norma, PCR 20 mg/l, leucociti 5.410/mmc, Hb 11,7 g/dl, piastrine 53.000/mmc (come i precedenti), il resto nella norma. ",
+        "tokens": [
+            {
+                "text": "nella norma",
+                "start": 34,
+                "end": 45,
+                "token_start": 6,
+                "token_end": 7,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "parametri",
+                "start": 24,
+                "end": 33,
+                "token_start": 5,
+                "token_end": 5,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "20 mg/l",
+                "start": 51,
+                "end": 58,
+                "token_start": 10,
+                "token_end": 13,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "PCR",
+                "start": 47,
+                "end": 50,
+                "token_start": 9,
+                "token_end": 9,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "5.410/mmc",
+                "start": 70,
+                "end": 79,
+                "token_start": 16,
+                "token_end": 18,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "leucociti",
+                "start": 60,
+                "end": 69,
+                "token_start": 15,
+                "token_end": 15,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "11,7 g/dl",
+                "start": 84,
+                "end": 93,
+                "token_start": 21,
+                "token_end": 24,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Hb",
+                "start": 81,
+                "end": 83,
+                "token_start": 20,
+                "token_end": 20,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "53.000/mmc",
+                "start": 105,
+                "end": 115,
+                "token_start": 27,
+                "token_end": 29,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "piastrine",
+                "start": 95,
+                "end": 104,
+                "token_start": 26,
+                "token_end": 26,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 6,
+                "head": 5,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 10,
+                "head": 9,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 16,
+                "head": 15,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 21,
+                "head": 20,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 27,
+                "head": 26,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Es. 2 ore dopo: PCR 25,6 mg/l, 6.050 gb/mmc, Hb 12,6 g/dl, piastrine stabili, CPK 113.000 U/l, mioglobina 17.204 ug/l, AST 1810 U/l. ",
+        "tokens": [
+            {
+                "text": "25,6 mg/l",
+                "start": 20,
+                "end": 29,
+                "token_start": 7,
+                "token_end": 10,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "PCR",
+                "start": 16,
+                "end": 19,
+                "token_start": 6,
+                "token_end": 6,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "12,6 g/dl",
+                "start": 48,
+                "end": 57,
+                "token_start": 18,
+                "token_end": 21,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Hb",
+                "start": 45,
+                "end": 47,
+                "token_start": 17,
+                "token_end": 17,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "113.000 U/l",
+                "start": 82,
+                "end": 93,
+                "token_start": 27,
+                "token_end": 30,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "CPK",
+                "start": 78,
+                "end": 81,
+                "token_start": 26,
+                "token_end": 26,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "17.204 ug/l",
+                "start": 106,
+                "end": 117,
+                "token_start": 33,
+                "token_end": 36,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "mioglobina",
+                "start": 95,
+                "end": 105,
+                "token_start": 32,
+                "token_end": 32,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "1810 U/l",
+                "start": 123,
+                "end": 131,
+                "token_start": 39,
+                "token_end": 42,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "AST",
+                "start": 119,
+                "end": 122,
+                "token_start": 38,
+                "token_end": 38,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 7,
+                "head": 6,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 18,
+                "head": 17,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 27,
+                "head": 26,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 33,
+                "head": 32,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 39,
+                "head": 38,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Gli esami ematochimici mostravano una ipercalcemia da iperparatiroidismo primitivo, calcio 14.5 mg/dL PTH 208 pg/mL con creatinina di 2.6 mg/dL e fosfatemia di 4.5 mg/dL, veniva pertanto richiesta una ecografica del collo che descriveva in loggia paratiroidea inferiore di sn una formazione ovalare di 2.7x1.5 cm, mista con orletto iperecogeno suggestiva di tessuto paratiroideo. ",
+        "tokens": [
+            {
+                "text": "14.5 mg/dL",
+                "start": 91,
+                "end": 101,
+                "token_start": 11,
+                "token_end": 14,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "calcio",
+                "start": 84,
+                "end": 90,
+                "token_start": 10,
+                "token_end": 10,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "208 pg/mL",
+                "start": 106,
+                "end": 115,
+                "token_start": 16,
+                "token_end": 19,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "PTH",
+                "start": 102,
+                "end": 105,
+                "token_start": 15,
+                "token_end": 15,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "2.6 mg/dL",
+                "start": 134,
+                "end": 143,
+                "token_start": 23,
+                "token_end": 26,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "creatinina",
+                "start": 120,
+                "end": 130,
+                "token_start": 21,
+                "token_end": 21,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "4.5 mg/dL",
+                "start": 160,
+                "end": 169,
+                "token_start": 30,
+                "token_end": 33,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "fosfatemia",
+                "start": 146,
+                "end": 156,
+                "token_start": 28,
+                "token_end": 28,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 11,
+                "head": 10,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 16,
+                "head": 15,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 23,
+                "head": 21,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 30,
+                "head": 28,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Un successivo prelievo per PTH mostrava un valore di 781 pg/mL.",
+        "tokens": [
+            {
+                "text": "781 pg/mL",
+                "start": 53,
+                "end": 62,
+                "token_start": 9,
+                "token_end": 12,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "PTH",
+                "start": 27,
+                "end": 30,
+                "token_start": 4,
+                "token_end": 4,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 9,
+                "head": 4,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Giungeva, presso la medicina generale dell'ODM, per febbre (TC 38degC, PA 100/60 mmHg), insufficienza respiratoria ipossiemica-ipocapnica, tachicardia sinusale, alterazione dello stato di coscienza, disfagia ed indici infiammatori elevati (pcr 100mg/dl; procalcitonina 50 ng/ml), punteggio SOFA 7, paziente di anni 40, in anamnesi minus cognitivo e cecita totale da esiti di intervento di asportazione di astrocitoma pilocitico cerebrale all'eta di otto anni. ",
+        "tokens": [
+            {
+                "text": "38degC",
+                "start": 63,
+                "end": 67,
+                "token_start": 14,
+                "token_end": 16,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "TC",
+                "start": 60,
+                "end": 62,
+                "token_start": 13,
+                "token_end": 13,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "100/60 mmHg",
+                "start": 72,
+                "end": 83,
+                "token_start": 19,
+                "token_end": 22,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "PA",
+                "start": 69,
+                "end": 71,
+                "token_start": 18,
+                "token_end": 18,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "100mg/dl",
+                "start": 242,
+                "end": 250,
+                "token_start": 45,
+                "token_end": 47,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "pcr",
+                "start": 238,
+                "end": 241,
+                "token_start": 44,
+                "token_end": 44,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "50 ng/ml",
+                "start": 267,
+                "end": 275,
+                "token_start": 50,
+                "token_end": 53,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "procalcitonina",
+                "start": 252,
+                "end": 266,
+                "token_start": 49,
+                "token_end": 49,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "7",
+                "start": 293,
+                "end": 294,
+                "token_start": 58,
+                "token_end": 58,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "SOFA",
+                "start": 288,
+                "end": 292,
+                "token_start": 57,
+                "token_end": 57,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 14,
+                "head": 13,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 19,
+                "head": 18,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 45,
+                "head": 44,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 50,
+                "head": 49,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 58,
+                "head": 57,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "L'esame clinico integrato da eco-bed side rilevo atelettasia polmonare dx, ipocinesia globale cardiaca con FE 45% (aumento della troponina 1,5 ng/ml e cpk 1500 UI/l, bnp 3000 ng/l, da cardiomiopatia settica), dolore intenso a sede pelvica associato ad aumento delle dimensioni della prostata (6 cm, PSA 50 ng/ml) e aree ipo-ecogene da sospetto ascesso prostatico. ",
+        "tokens": [
+            {
+                "text": "45%",
+                "start": 110,
+                "end": 113,
+                "token_start": 18,
+                "token_end": 18,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "FE",
+                "start": 107,
+                "end": 109,
+                "token_start": 17,
+                "token_end": 17,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "1,5 ng/ml",
+                "start": 139,
+                "end": 148,
+                "token_start": 23,
+                "token_end": 26,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "troponina",
+                "start": 129,
+                "end": 138,
+                "token_start": 22,
+                "token_end": 22,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "1500 UI/l",
+                "start": 155,
+                "end": 164,
+                "token_start": 29,
+                "token_end": 32,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "cpk",
+                "start": 151,
+                "end": 154,
+                "token_start": 28,
+                "token_end": 28,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "3000 ng/l",
+                "start": 170,
+                "end": 179,
+                "token_start": 35,
+                "token_end": 38,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "bnp",
+                "start": 166,
+                "end": 169,
+                "token_start": 34,
+                "token_end": 34,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "6 cm",
+                "start": 293,
+                "end": 297,
+                "token_start": 58,
+                "token_end": 59,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "dimensioni",
+                "start": 266,
+                "end": 276,
+                "token_start": 54,
+                "token_end": 54,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "50 ng/ml",
+                "start": 303,
+                "end": 311,
+                "token_start": 62,
+                "token_end": 65,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "PSA",
+                "start": 299,
+                "end": 302,
+                "token_start": 61,
+                "token_end": 61,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 18,
+                "head": 17,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 23,
+                "head": 22,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 29,
+                "head": 28,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 35,
+                "head": 34,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 58,
+                "head": 54,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 62,
+                "head": 61,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Si praticarono emocolture, urinocolture (tutte negative) e massaggio prostatico con coltura del liquido prostatico. ",
+        "tokens": [
+            {
+                "text": "negative",
+                "start": 47,
+                "end": 55,
+                "token_start": 7,
+                "token_end": 7,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "emocolture",
+                "start": 15,
+                "end": 25,
+                "token_start": 2,
+                "token_end": 2,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "urinocolture",
+                "start": 27,
+                "end": 39,
+                "token_start": 4,
+                "token_end": 4,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 7,
+                "head": 2,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 7,
+                "head": 4,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "In urgenza fu eseguita tc total body con mezzo di contrasto che confermo l'ascesso prostatico e rilevo di polmonite ab ingestis con ostruzione del bronco principale destro cui segui broncoscopia disostruttiva e BAL (che risulto negativo). ",
+        "tokens": [
+            {
+                "text": "negativo",
+                "start": 228,
+                "end": 236,
+                "token_start": 38,
+                "token_end": 38,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "BAL",
+                "start": 211,
+                "end": 214,
+                "token_start": 34,
+                "token_end": 34,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 38,
+                "head": 34,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "(coltura positiva per enterococcus faecium sensibile alla gentamicina). ",
+        "tokens": [
+            {
+                "text": "positiva",
+                "start": 9,
+                "end": 17,
+                "token_start": 2,
+                "token_end": 2,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "coltura",
+                "start": 1,
+                "end": 8,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "enterococcus",
+                "start": 22,
+                "end": 34,
+                "token_start": 4,
+                "token_end": 4,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 2,
+                "head": 1,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 2,
+                "head": 4,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Il siero in esame mostrava una positivita sia per IgG (>1/256) che per IgM (>1/50) verso R. rickettsii.  ",
+        "tokens": [
+            {
+                "text": "una positivita",
+                "start": 27,
+                "end": 41,
+                "token_start": 5,
+                "token_end": 6,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "IgM",
+                "start": 71,
+                "end": 74,
+                "token_start": 18,
+                "token_end": 18,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "IgG",
+                "start": 50,
+                "end": 53,
+                "token_start": 9,
+                "token_end": 9,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": ">1/256",
+                "start": 55,
+                "end": 61,
+                "token_start": 11,
+                "token_end": 14,
+                "entityLabel": "RML"
+            },
+            {
+                "text": ">1/50",
+                "start": 76,
+                "end": 81,
+                "token_start": 20,
+                "token_end": 23,
+                "entityLabel": "RML"
+            }
+        ],
+        "relations": [
+            {
+                "child": 5,
+                "head": 18,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 5,
+                "head": 9,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 11,
+                "head": 9,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 20,
+                "head": 18,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Nata a termine da parto eutocico in gravidanza normodecorsa, ha presentato sofferenza perinatale (apgar ad 1 minuto: 3) e ha necessitato di intubazione orotracheale. ",
+        "tokens": [
+            {
+                "text": "3",
+                "start": 117,
+                "end": 118,
+                "token_start": 20,
+                "token_end": 20,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "apgar",
+                "start": 98,
+                "end": 103,
+                "token_start": 15,
+                "token_end": 15,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 20,
+                "head": 15,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "In prima giornata di vita riscontro di grave anemia emolitica e moderata piastrinopenia (Hb 7,8 g/dl, Ptl 76 x 109/l, ldH 14501u/l, CPK 778 u/l e ast 429 u/l) per cui la paziente e stata sottoposta a trasfusione di emazie concentrate e piastrine. ",
+        "tokens": [
+            {
+                "text": "7,8 g/dl",
+                "start": 92,
+                "end": 100,
+                "token_start": 15,
+                "token_end": 18,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Hb",
+                "start": 89,
+                "end": 91,
+                "token_start": 14,
+                "token_end": 14,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "76 x 109/l",
+                "start": 106,
+                "end": 116,
+                "token_start": 21,
+                "token_end": 25,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Ptl",
+                "start": 102,
+                "end": 105,
+                "token_start": 20,
+                "token_end": 20,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "14501u/l",
+                "start": 122,
+                "end": 130,
+                "token_start": 28,
+                "token_end": 30,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "ldH",
+                "start": 118,
+                "end": 121,
+                "token_start": 27,
+                "token_end": 27,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "778 u/l",
+                "start": 136,
+                "end": 143,
+                "token_start": 33,
+                "token_end": 36,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "CPK",
+                "start": 132,
+                "end": 135,
+                "token_start": 32,
+                "token_end": 32,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "429 u/l",
+                "start": 150,
+                "end": 157,
+                "token_start": 39,
+                "token_end": 42,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "ast",
+                "start": 146,
+                "end": 149,
+                "token_start": 38,
+                "token_end": 38,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 15,
+                "head": 14,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 21,
+                "head": 20,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 28,
+                "head": 27,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 33,
+                "head": 32,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 39,
+                "head": 38,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "In seconda giornata di vita grave ittero a bilirubina indiretta (bilirubina totale massima 21,7 mg/dl) che ha richiesto exanguinotrasfusione con rapido miglioramento clinico e normalizzazione degli indici di emolisi. ",
+        "tokens": [
+            {
+                "text": "21,7 mg/dl",
+                "start": 91,
+                "end": 101,
+                "token_start": 14,
+                "token_end": 17,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "bilirubina",
+                "start": 65,
+                "end": 75,
+                "token_start": 11,
+                "token_end": 11,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 14,
+                "head": 11,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Dimessa in benessere a 2 settimane di vita con buona crasi ematica (Hb 11,8 g/dl, MCv 79,2 fl, Ptl 276000/mmc), la famiglia non si e presentata ai successivi controlli programmati per ulteriori approfondimenti e ha soggiornato per diversi mesi in Pakistan. ",
+        "tokens": [
+            {
+                "text": "11,8 g/dl",
+                "start": 71,
+                "end": 80,
+                "token_start": 14,
+                "token_end": 17,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Hb",
+                "start": 68,
+                "end": 70,
+                "token_start": 13,
+                "token_end": 13,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "79,2 fl",
+                "start": 86,
+                "end": 93,
+                "token_start": 20,
+                "token_end": 21,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "MCv",
+                "start": 82,
+                "end": 85,
+                "token_start": 19,
+                "token_end": 19,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "276000/mmc",
+                "start": 99,
+                "end": 109,
+                "token_start": 24,
+                "token_end": 26,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Ptl",
+                "start": 95,
+                "end": 98,
+                "token_start": 23,
+                "token_end": 23,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 14,
+                "head": 13,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 20,
+                "head": 19,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 24,
+                "head": 23,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "A 45 mesi di vita per comparsa di grave anemia emolitica in corso di febbre (Hb 6,4 g/dl, MCv 81,8 fl, reticolociti 50,9 x 104/ml, ldH 3250u/l, bilirubina totale 2,90 mg/dl, bilirubina indiretta 2 mg/dl) e modesta splenomegalia (milza palpabile a 2 cm dall'arcata costale) la paziente ha effettuato nuova emotrasfusione. ",
+        "tokens": [
+            {
+                "text": "6,4 g/dl",
+                "start": 80,
+                "end": 88,
+                "token_start": 17,
+                "token_end": 20,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Hb",
+                "start": 77,
+                "end": 79,
+                "token_start": 16,
+                "token_end": 16,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "81,8 fl",
+                "start": 94,
+                "end": 101,
+                "token_start": 23,
+                "token_end": 24,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "MCv",
+                "start": 90,
+                "end": 93,
+                "token_start": 22,
+                "token_end": 22,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "50,9 x 104/ml",
+                "start": 116,
+                "end": 129,
+                "token_start": 27,
+                "token_end": 31,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "reticolociti",
+                "start": 103,
+                "end": 115,
+                "token_start": 26,
+                "token_end": 26,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "3250u/l",
+                "start": 135,
+                "end": 142,
+                "token_start": 34,
+                "token_end": 36,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "ldH",
+                "start": 131,
+                "end": 134,
+                "token_start": 33,
+                "token_end": 33,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "2,90 mg/dl",
+                "start": 162,
+                "end": 172,
+                "token_start": 40,
+                "token_end": 43,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "bilirubina",
+                "start": 144,
+                "end": 154,
+                "token_start": 38,
+                "token_end": 38,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "2 mg/dl",
+                "start": 195,
+                "end": 202,
+                "token_start": 47,
+                "token_end": 50,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "bilirubina",
+                "start": 174,
+                "end": 184,
+                "token_start": 45,
+                "token_end": 45,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 17,
+                "head": 16,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 23,
+                "head": 22,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 27,
+                "head": 26,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 34,
+                "head": 33,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 40,
+                "head": 38,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 47,
+                "head": 45,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "I test di Coombs diretto e indiretto sono risultati negativi; la morfologia eritrocitaria e il tracciato cromatografico hanno evidenziato un quadro suggestivo per emoglobinopatia da Hb H, senza evidenza di emoglobine patologiche. ",
+        "tokens": [
+            {
+                "text": "negativi",
+                "start": 52,
+                "end": 60,
+                "token_start": 9,
+                "token_end": 9,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Coombs",
+                "start": 10,
+                "end": 16,
+                "token_start": 3,
+                "token_end": 3,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 9,
+                "head": 3,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Il dosaggio dell'attivita del G6PdH, lo studio delle resistenze osmotiche, il test di lisi al glicerolo ed il Pink test, oltre alle sierologie virali (Citmomegalovirus, epstain barr virus, Parvovirus) e alla ricerca del parassita malarico, sono risultati negativi. ",
+        "tokens": [
+            {
+                "text": "negativi",
+                "start": 255,
+                "end": 263,
+                "token_start": 47,
+                "token_end": 47,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Pink",
+                "start": 110,
+                "end": 114,
+                "token_start": 22,
+                "token_end": 22,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "studio",
+                "start": 40,
+                "end": 46,
+                "token_start": 9,
+                "token_end": 9,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "sierologie",
+                "start": 132,
+                "end": 142,
+                "token_start": 27,
+                "token_end": 27,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "dosaggio",
+                "start": 3,
+                "end": 11,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "ricerca",
+                "start": 208,
+                "end": 215,
+                "token_start": 40,
+                "token_end": 40,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "test",
+                "start": 78,
+                "end": 82,
+                "token_start": 15,
+                "token_end": 15,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 47,
+                "head": 22,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 47,
+                "head": 9,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 47,
+                "head": 27,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 47,
+                "head": 1,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 47,
+                "head": 40,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 47,
+                "head": 15,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Si riscontrava una crescita staturo-ponderale al 3deg percentile, regolare lungo la curva di crescita. ",
+        "tokens": [
+            {
+                "text": "al 3deg percentile",
+                "start": 46,
+                "end": 62,
+                "token_start": 5,
+                "token_end": 8,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "crescita",
+                "start": 19,
+                "end": 27,
+                "token_start": 3,
+                "token_end": 3,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 5,
+                "head": 3,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "A distanza di 2 mesi da tale evento, la bambina ha presentato sempre in corso di febbre (tampone nasofaringeo positivo per influenza b) un nuovo episodio di emolisi (Hb 6,0 g/dl, MCv 78,4 fl, reticolociti 12% ldH 1888 u/l) che ha necessitato nuovamente di trasfusione di emazie concentrate per lo scadimento delle condizioni generali. ",
+        "tokens": [
+            {
+                "text": "positivo",
+                "start": 110,
+                "end": 118,
+                "token_start": 21,
+                "token_end": 21,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "influenza",
+                "start": 123,
+                "end": 132,
+                "token_start": 23,
+                "token_end": 23,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "tampone",
+                "start": 89,
+                "end": 96,
+                "token_start": 19,
+                "token_end": 19,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "6,0 g/dl",
+                "start": 169,
+                "end": 177,
+                "token_start": 33,
+                "token_end": 36,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Hb",
+                "start": 166,
+                "end": 168,
+                "token_start": 32,
+                "token_end": 32,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "78,4 fl",
+                "start": 183,
+                "end": 190,
+                "token_start": 39,
+                "token_end": 40,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "MCv",
+                "start": 179,
+                "end": 182,
+                "token_start": 38,
+                "token_end": 38,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "12%",
+                "start": 205,
+                "end": 208,
+                "token_start": 43,
+                "token_end": 43,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "reticolociti",
+                "start": 192,
+                "end": 204,
+                "token_start": 42,
+                "token_end": 42,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "1888 u/l",
+                "start": 213,
+                "end": 221,
+                "token_start": 45,
+                "token_end": 48,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "ldH",
+                "start": 209,
+                "end": 212,
+                "token_start": 44,
+                "token_end": 44,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 21,
+                "head": 23,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 21,
+                "head": 19,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 33,
+                "head": 32,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 39,
+                "head": 38,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 43,
+                "head": 42,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 45,
+                "head": 44,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "La bambina si presenta attualmente in buone condizioni generali, con obiettivita generale negativa eccetto per polo splenico palpabile a circa 1 cm dall'arcata costale. e seguita con cadenza mensile, salvo comparsa di sintomatologia. ",
+        "tokens": [
+            {
+                "text": "negativa",
+                "start": 90,
+                "end": 98,
+                "token_start": 13,
+                "token_end": 13,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "obiettivita",
+                "start": 69,
+                "end": 80,
+                "token_start": 11,
+                "token_end": 11,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 13,
+                "head": 11,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Si valutera nei prossimi mesi l'eventuale necessita di un regime trasfusionale cronico in base all'andamento della malattia (all'ultimo emocromo Hb 8,2 g/dl, MCv 77,7 fl, reticolociti 57,85 x 104/ml). ",
+        "tokens": [
+            {
+                "text": "8,2 g/dl",
+                "start": 148,
+                "end": 156,
+                "token_start": 27,
+                "token_end": 30,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Hb",
+                "start": 145,
+                "end": 147,
+                "token_start": 26,
+                "token_end": 26,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "77,7 fl",
+                "start": 162,
+                "end": 169,
+                "token_start": 33,
+                "token_end": 34,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "MCv",
+                "start": 158,
+                "end": 161,
+                "token_start": 32,
+                "token_end": 32,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "57,85 x 104/ml",
+                "start": 184,
+                "end": 198,
+                "token_start": 37,
+                "token_end": 41,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "reticolociti",
+                "start": 171,
+                "end": 183,
+                "token_start": 36,
+                "token_end": 36,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 27,
+                "head": 26,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 33,
+                "head": 32,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 37,
+                "head": 36,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "un bambino di origine asiatica (bangladesh) di 4 anni alla diagnosi di lla, ad immunofenotipo common, presentava una colesterolemia di 172 mg/dl e trigliceridemia di 177 mg/dl. ",
+        "tokens": [
+            {
+                "text": "172 mg/dl",
+                "start": 135,
+                "end": 144,
+                "token_start": 24,
+                "token_end": 27,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "colesterolemia",
+                "start": 117,
+                "end": 131,
+                "token_start": 22,
+                "token_end": 22,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "177 mg/dl",
+                "start": 166,
+                "end": 175,
+                "token_start": 31,
+                "token_end": 34,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "trigliceridemia",
+                "start": 147,
+                "end": 162,
+                "token_start": 29,
+                "token_end": 29,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 24,
+                "head": 22,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 31,
+                "head": 29,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Iniziato il trattamento antiblastico di induzione ia, secondo Protocollo AIEOP-BFM ALL 2009, durante la prefase steroidea si e osservata una modesta e transitoria ipercolesterolemia (fino a 247 mg/dl) ed ipertrigliceridemia (fino a 745 mg/dl), regredite spontaneamente. ",
+        "tokens": [
+            {
+                "text": "247 mg/dl",
+                "start": 190,
+                "end": 199,
+                "token_start": 29,
+                "token_end": 32,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "ipercolesterolemia",
+                "start": 163,
+                "end": 181,
+                "token_start": 25,
+                "token_end": 25,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "745 mg/dl",
+                "start": 232,
+                "end": 241,
+                "token_start": 39,
+                "token_end": 42,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "ipertrigliceridemia",
+                "start": 204,
+                "end": 223,
+                "token_start": 35,
+                "token_end": 35,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 29,
+                "head": 25,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 39,
+                "head": 35,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Al G+8 prednisone good responder, DNA index 1.14 ed al G+15 MMR 0%, per cui e stato eseguito random R1 con sua allocazione nel braccio sperimentale (2 daunorubicine). ",
+        "tokens": [
+            {
+                "text": "1.14",
+                "start": 44,
+                "end": 48,
+                "token_start": 10,
+                "token_end": 10,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "index",
+                "start": 38,
+                "end": 43,
+                "token_start": 9,
+                "token_end": 9,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "0%",
+                "start": 64,
+                "end": 66,
+                "token_start": 17,
+                "token_end": 17,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "MMR",
+                "start": 60,
+                "end": 63,
+                "token_start": 16,
+                "token_end": 16,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 10,
+                "head": 9,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 17,
+                "head": 16,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "All'inizio della fase di induzione ib, a distanza di 11 giorni dalla somministrazione della 2deg dose di PeG-asparaginasi e di 1 giorno dalla sospensione completa della terapia steroidea, si e assistito alla comparsa, in pieno benessere, di siero lattescente per campione lipemico con una rilevante ipertriglieridemia (16.620 mg/dl) associata ad ipercolesterolemia (totale 1.148 mg/dl, Hdl 20 mg/dl). ",
+        "tokens": [
+            {
+                "text": "16.620 mg/dl",
+                "start": 317,
+                "end": 329,
+                "token_start": 54,
+                "token_end": 57,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "ipertriglieridemia",
+                "start": 297,
+                "end": 315,
+                "token_start": 52,
+                "token_end": 52,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "1.148 mg/dl",
+                "start": 371,
+                "end": 382,
+                "token_start": 64,
+                "token_end": 67,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "totale",
+                "start": 364,
+                "end": 370,
+                "token_start": 63,
+                "token_end": 63,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "ipercolesterolemia",
+                "start": 344,
+                "end": 362,
+                "token_start": 61,
+                "token_end": 61,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "20 mg/dl",
+                "start": 388,
+                "end": 396,
+                "token_start": 70,
+                "token_end": 73,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Hdl",
+                "start": 384,
+                "end": 387,
+                "token_start": 69,
+                "token_end": 69,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 54,
+                "head": 52,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 64,
+                "head": 63,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 64,
+                "head": 61,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 70,
+                "head": 61,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 70,
+                "head": 69,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Dopo 12 ore, non essendo stato possibile proseguire il trattamento con insulina, per la marcata tendenza ad ipoglicemie, e non essendosi osservato un soddisfacente calo della trigliceridemia (15600 mg/dl), si e deciso di sottoporre il bambino ad una seduta di plasmaferesi: mediante separatore cellulare CoMteC FResenius-Kabi e stato scambiato 1 volume di plasma con albumina in soluzione fisiologica al 4%. ",
+        "tokens": [
+            {
+                "text": "15600 mg/dl",
+                "start": 192,
+                "end": 203,
+                "token_start": 31,
+                "token_end": 34,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "trigliceridemia",
+                "start": 175,
+                "end": 190,
+                "token_start": 29,
+                "token_end": 29,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 31,
+                "head": 29,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "A distanza di sole 24 ore si e assistito ad un significativo calo del livello ematico di trigliceridi (5080 mg/dl) e di colesterolo (549 mg/dl) ma, visto la persistenza di marcata trigliceridemia, si e iniziata terapia con insulina in infusione continua endovenosa. ",
+        "tokens": [
+            {
+                "text": "5080 mg/dl",
+                "start": 103,
+                "end": 113,
+                "token_start": 19,
+                "token_end": 22,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "trigliceridi",
+                "start": 89,
+                "end": 101,
+                "token_start": 17,
+                "token_end": 17,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "549 mg/dl",
+                "start": 133,
+                "end": 142,
+                "token_start": 28,
+                "token_end": 31,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "colesterolo",
+                "start": 120,
+                "end": 131,
+                "token_start": 26,
+                "token_end": 26,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 19,
+                "head": 17,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 28,
+                "head": 26,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Tale terapia e stata sospesa dopo 36 ore essendosi verificato un rapido calo dei livelli ematici di trigliceridi e colesterolo, rispettivamente a 890 mg/dl e 390 mg/dl. ",
+        "tokens": [
+            {
+                "text": "890 mg/dl",
+                "start": 146,
+                "end": 155,
+                "token_start": 23,
+                "token_end": 26,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "trigliceridi",
+                "start": 100,
+                "end": 112,
+                "token_start": 17,
+                "token_end": 17,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "390 mg/dl",
+                "start": 158,
+                "end": 167,
+                "token_start": 28,
+                "token_end": 31,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "colesterolo",
+                "start": 115,
+                "end": 126,
+                "token_start": 19,
+                "token_end": 19,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 23,
+                "head": 17,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 28,
+                "head": 19,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "A distanza di 6 giorni dall'ingresso i livelli ematici di trigliceridi e colesterolo sono risultati pari rispettivamente a 431 mg/dl e 342 mg/dl. ",
+        "tokens": [
+            {
+                "text": "431 mg/dl",
+                "start": 123,
+                "end": 132,
+                "token_start": 20,
+                "token_end": 23,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "trigliceridi",
+                "start": 58,
+                "end": 70,
+                "token_start": 12,
+                "token_end": 12,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "342 mg/dl",
+                "start": 135,
+                "end": 144,
+                "token_start": 25,
+                "token_end": 28,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "colesterolo",
+                "start": 73,
+                "end": 84,
+                "token_start": 14,
+                "token_end": 14,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 20,
+                "head": 12,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 25,
+                "head": 14,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Le prove di emocoagulazione, non effettuabili per campione lipemico per i primi giorni, hanno mostrato a distanza di 3 giorni dal ricovero una modica ipofibrinogenemia (121 mg/dl) con severa deplezione di antitrombina iii (24%) e Pt ed aPtt nella norma. ",
+        "tokens": [
+            {
+                "text": "121 mg/dl",
+                "start": 169,
+                "end": 178,
+                "token_start": 28,
+                "token_end": 31,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "ipofibrinogenemia",
+                "start": 150,
+                "end": 167,
+                "token_start": 26,
+                "token_end": 26,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "24%",
+                "start": 223,
+                "end": 226,
+                "token_start": 40,
+                "token_end": 40,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "deplezione",
+                "start": 191,
+                "end": 201,
+                "token_start": 35,
+                "token_end": 35,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "nella norma",
+                "start": 241,
+                "end": 252,
+                "token_start": 46,
+                "token_end": 47,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "aPtt",
+                "start": 236,
+                "end": 240,
+                "token_start": 45,
+                "token_end": 45,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "Pt",
+                "start": 230,
+                "end": 232,
+                "token_start": 43,
+                "token_end": 43,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 28,
+                "head": 26,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 40,
+                "head": 35,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 46,
+                "head": 45,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 46,
+                "head": 43,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "il piccolo leonardo e un bambino che giunge alla nostra osservazione all'eta di 8 anni, per il riscontro occasionale di ipogammaglobulinemia in corso di un episodio di gastroenterite: igG 290 mg/dl (vn 636-1916), iga <5 Mg/dl (vn 41-315), igM <16 mg/dl (vn 56-261). ",
+        "tokens": [
+            {
+                "text": "290 mg/dl",
+                "start": 188,
+                "end": 197,
+                "token_start": 33,
+                "token_end": 36,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "igG",
+                "start": 184,
+                "end": 187,
+                "token_start": 32,
+                "token_end": 32,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "<5 Mg/dl",
+                "start": 217,
+                "end": 225,
+                "token_start": 45,
+                "token_end": 49,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "iga",
+                "start": 213,
+                "end": 216,
+                "token_start": 44,
+                "token_end": 44,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "<16 mg/dl",
+                "start": 243,
+                "end": 252,
+                "token_start": 58,
+                "token_end": 62,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "igM",
+                "start": 239,
+                "end": 242,
+                "token_start": 57,
+                "token_end": 57,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 33,
+                "head": 32,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 45,
+                "head": 44,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 58,
+                "head": 57,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Il numero dei linfociti b era risultato nella norma (Cd19+ 15.6%). ",
+        "tokens": [
+            {
+                "text": "nella norma",
+                "start": 40,
+                "end": 51,
+                "token_start": 7,
+                "token_end": 8,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "linfociti",
+                "start": 14,
+                "end": 23,
+                "token_start": 3,
+                "token_end": 3,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "15.6%",
+                "start": 59,
+                "end": 64,
+                "token_start": 12,
+                "token_end": 12,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Cd19",
+                "start": 53,
+                "end": 57,
+                "token_start": 10,
+                "token_end": 10,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 7,
+                "head": 3,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 12,
+                "head": 10,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Nel corso del work-up diagnostico si era osservata una spontanea risalita dei valori di immunoglobuline sino al raggiungimento del valore massimo di igG di 432 mg/dl. ",
+        "tokens": [
+            {
+                "text": "432 mg/dl",
+                "start": 156,
+                "end": 165,
+                "token_start": 24,
+                "token_end": 27,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "igG",
+                "start": 149,
+                "end": 152,
+                "token_start": 22,
+                "token_end": 22,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 24,
+                "head": 22,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Successivamente leonardo aveva iniziato a presentare sintomatologia intestinale cronica caratterizzata da diarrea e dolori addominali ricorrenti, associata a febbricola, e contemporaneamente si era osservata una nuova discesa dei valori di immunoglobuline e, questa volta anche di albumina (2.8 g/l). ",
+        "tokens": [
+            {
+                "text": "2.8 g/l",
+                "start": 291,
+                "end": 298,
+                "token_start": 41,
+                "token_end": 44,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "albumina",
+                "start": 281,
+                "end": 289,
+                "token_start": 39,
+                "token_end": 39,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 41,
+                "head": 39,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Avviate quindi le indagini diagnostiche per il malassorbimento, erano state escluse la giardiasi, la celiachia ed erano risultati negativi gli esami colturali delle feci. ",
+        "tokens": [
+            {
+                "text": "negativi",
+                "start": 130,
+                "end": 138,
+                "token_start": 20,
+                "token_end": 20,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "esami",
+                "start": 143,
+                "end": 148,
+                "token_start": 22,
+                "token_end": 22,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 20,
+                "head": 22,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Per il riscontro di alti livelli di calprotectina fecale (277 mg/Kg) il piccolo veniva sottoposto a screening degli asCa e colonscopia. ",
+        "tokens": [
+            {
+                "text": "277 mg/Kg",
+                "start": 58,
+                "end": 67,
+                "token_start": 10,
+                "token_end": 13,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "calprotectina",
+                "start": 36,
+                "end": 49,
+                "token_start": 7,
+                "token_end": 7,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 10,
+                "head": 7,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Alla luce della positivita degli asCa, si era ipotizzata una diagnosi di morbo di Crohn, non confermata all'esame istologico, che invece metteva in evidenza una iperplasia linfatica nodulare intestinale. ",
+        "tokens": [
+            {
+                "text": "della positivita",
+                "start": 10,
+                "end": 26,
+                "token_start": 2,
+                "token_end": 3,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "asCa",
+                "start": 33,
+                "end": 37,
+                "token_start": 5,
+                "token_end": 5,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 2,
+                "head": 5,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Lo studio della risposta anticorpale alla vaccinazione con vaccino penumococcico polisaccardico 23-valente era risultato deficitario e pertanto era stata posta la diagnosi di immunodeficienza comune variabile. ",
+        "tokens": [
+            {
+                "text": "deficitario",
+                "start": 121,
+                "end": 132,
+                "token_start": 16,
+                "token_end": 16,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "studio",
+                "start": 3,
+                "end": 9,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 16,
+                "head": 1,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Vittoria e una bimba nata da parto spontaneo con buone condizioni alla nascita (APGAR score 9/9) e nulla di rilevante all'anamnesi familiare. ",
+        "tokens": [
+            {
+                "text": "9/9",
+                "start": 92,
+                "end": 95,
+                "token_start": 16,
+                "token_end": 18,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "APGAR",
+                "start": 80,
+                "end": 85,
+                "token_start": 14,
+                "token_end": 14,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 16,
+                "head": 14,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "All'esame emocromocitometrico la conta delle piastrine risulta 7000/mmc, i globuli bianchi 10500/mmc (N51%, L35%, M10%), l'emoglobina 16.6 g/dl; agli esami della coagulazione PT 67%, INR 1.3, aPTT 38.9 sec, aPTT ratio 1.3, fibrinogeno 266 mg/dl. ",
+        "tokens": [
+            {
+                "text": "7000/mmc",
+                "start": 63,
+                "end": 71,
+                "token_start": 9,
+                "token_end": 11,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "conta",
+                "start": 33,
+                "end": 38,
+                "token_start": 5,
+                "token_end": 5,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "10500/mmc",
+                "start": 91,
+                "end": 100,
+                "token_start": 16,
+                "token_end": 18,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "globuli",
+                "start": 75,
+                "end": 82,
+                "token_start": 14,
+                "token_end": 14,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "16.6 g/dl",
+                "start": 134,
+                "end": 143,
+                "token_start": 30,
+                "token_end": 33,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "emoglobina",
+                "start": 123,
+                "end": 133,
+                "token_start": 29,
+                "token_end": 29,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "67%",
+                "start": 178,
+                "end": 181,
+                "token_start": 40,
+                "token_end": 40,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "PT",
+                "start": 175,
+                "end": 177,
+                "token_start": 39,
+                "token_end": 39,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "1.3",
+                "start": 187,
+                "end": 190,
+                "token_start": 43,
+                "token_end": 43,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "INR",
+                "start": 183,
+                "end": 186,
+                "token_start": 42,
+                "token_end": 42,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "38.9 sec",
+                "start": 197,
+                "end": 205,
+                "token_start": 46,
+                "token_end": 47,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "aPTT",
+                "start": 192,
+                "end": 196,
+                "token_start": 45,
+                "token_end": 45,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "1.3",
+                "start": 218,
+                "end": 221,
+                "token_start": 51,
+                "token_end": 51,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "aPTT",
+                "start": 207,
+                "end": 211,
+                "token_start": 49,
+                "token_end": 49,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "266 mg/dl",
+                "start": 235,
+                "end": 244,
+                "token_start": 54,
+                "token_end": 57,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "fibrinogeno",
+                "start": 223,
+                "end": 234,
+                "token_start": 53,
+                "token_end": 53,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 9,
+                "head": 5,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 16,
+                "head": 14,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 30,
+                "head": 29,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 40,
+                "head": 39,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 43,
+                "head": 42,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 46,
+                "head": 45,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 51,
+                "head": 49,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 54,
+                "head": 53,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "All'ecografia addome il diametro della milza risulta aumentato (7.5 cm) ma con flusso portale preservato. ",
+        "tokens": [
+            {
+                "text": "7.5 cm",
+                "start": 64,
+                "end": 70,
+                "token_start": 11,
+                "token_end": 12,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "diametro",
+                "start": 24,
+                "end": 32,
+                "token_start": 5,
+                "token_end": 5,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 11,
+                "head": 5,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Nel sospetto di una causa infettiva, vengono eseguite le sierologie di Toxoplasma, Rosolia, EBV, CMV, HSV, Listeria e Parvovirus; tutte risulteranno negative. ",
+        "tokens": [
+            {
+                "text": "negative",
+                "start": 149,
+                "end": 157,
+                "token_start": 28,
+                "token_end": 28,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "HSV",
+                "start": 102,
+                "end": 105,
+                "token_start": 20,
+                "token_end": 20,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "sierologie",
+                "start": 57,
+                "end": 67,
+                "token_start": 10,
+                "token_end": 10,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "Parvovirus",
+                "start": 118,
+                "end": 128,
+                "token_start": 24,
+                "token_end": 24,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "EBV",
+                "start": 92,
+                "end": 95,
+                "token_start": 16,
+                "token_end": 16,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "CMV",
+                "start": 97,
+                "end": 100,
+                "token_start": 18,
+                "token_end": 18,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "Rosolia",
+                "start": 83,
+                "end": 90,
+                "token_start": 14,
+                "token_end": 14,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "Listeria",
+                "start": 107,
+                "end": 115,
+                "token_start": 22,
+                "token_end": 22,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 28,
+                "head": 20,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 28,
+                "head": 10,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 28,
+                "head": 24,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 28,
+                "head": 16,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 28,
+                "head": 18,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 28,
+                "head": 14,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 28,
+                "head": 22,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Per escludere una piastrinopenia da causa autoimmune si effettua anche la ricerca di anticorpi anti piastrine, che risultano negativi. ",
+        "tokens": [
+            {
+                "text": "negativi",
+                "start": 125,
+                "end": 133,
+                "token_start": 19,
+                "token_end": 19,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "anticorpi",
+                "start": 85,
+                "end": 94,
+                "token_start": 13,
+                "token_end": 13,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 19,
+                "head": 13,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Le dimensioni della milza, monitorate ecograficamente, evidenziano un rapido incremento della splenomegalia (diametro massimo 12 centimetri) e comparsa di ascite periepatica e perisplenica. ",
+        "tokens": [
+            {
+                "text": "12 centimetri",
+                "start": 126,
+                "end": 139,
+                "token_start": 17,
+                "token_end": 18,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "diametro",
+                "start": 109,
+                "end": 117,
+                "token_start": 15,
+                "token_end": 15,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 17,
+                "head": 15,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "L'aspirato midollare conferma l'assenza di cellule di accumulo e mostra normale emopoiesi. ",
+        "tokens": [
+            {
+                "text": "normale",
+                "start": 72,
+                "end": 79,
+                "token_start": 14,
+                "token_end": 14,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "emopoiesi",
+                "start": 80,
+                "end": 89,
+                "token_start": 15,
+                "token_end": 15,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 14,
+                "head": 15,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "La morfologia ossea, normale all'rx del torace esclude inoltre l'osteopetrosi. ",
+        "tokens": [
+            {
+                "text": "normale",
+                "start": 21,
+                "end": 28,
+                "token_start": 4,
+                "token_end": 4,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "morfologia",
+                "start": 3,
+                "end": 13,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 4,
+                "head": 1,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Le transaminasi, a1-antitripsina, il dosaggio di alfa feto proteina e l'analisi per la fibrosi cistica risultano normali, e le indagini sierologiche non evidenzano infezioni da virus epatotropici (CMV, EBV, HSV, HIV1/2, HBV, HCV, Parvovirus, Rubella). ",
+        "tokens": [
+            {
+                "text": "normali",
+                "start": 113,
+                "end": 120,
+                "token_start": 22,
+                "token_end": 22,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "antitripsina",
+                "start": 20,
+                "end": 32,
+                "token_start": 5,
+                "token_end": 5,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "transaminasi",
+                "start": 3,
+                "end": 15,
+                "token_start": 1,
+                "token_end": 1,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "proteina",
+                "start": 59,
+                "end": 67,
+                "token_start": 12,
+                "token_end": 12,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "fibrosi",
+                "start": 87,
+                "end": 94,
+                "token_start": 19,
+                "token_end": 19,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 22,
+                "head": 5,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 22,
+                "head": 1,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 22,
+                "head": 12,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 22,
+                "head": 19,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Negativi anche i test per Brucella, Listeria, Leishmania, Sifilide, Salmonella. ",
+        "tokens": [
+            {
+                "text": "Negativi",
+                "start": 0,
+                "end": 8,
+                "token_start": 0,
+                "token_end": 0,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Leishmania",
+                "start": 46,
+                "end": 56,
+                "token_start": 9,
+                "token_end": 9,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "Brucella",
+                "start": 26,
+                "end": 34,
+                "token_start": 5,
+                "token_end": 5,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "Salmonella",
+                "start": 68,
+                "end": 78,
+                "token_start": 13,
+                "token_end": 13,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "Sifilide",
+                "start": 58,
+                "end": 66,
+                "token_start": 11,
+                "token_end": 11,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "Listeria",
+                "start": 36,
+                "end": 44,
+                "token_start": 7,
+                "token_end": 7,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 0,
+                "head": 9,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 0,
+                "head": 5,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 0,
+                "head": 13,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 0,
+                "head": 11,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 0,
+                "head": 7,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Dopo l'intervento si osserva un incremento della conta piastrinica, ma cinque giorni dopo una nuova riduzione dei valori, associata ad importante leucocitosi con monocitosi (WBC 26.860/mmc- Monociti 8.000/mmc). ",
+        "tokens": [
+            {
+                "text": "26.860/mmc",
+                "start": 178,
+                "end": 188,
+                "token_start": 30,
+                "token_end": 32,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "WBC",
+                "start": 174,
+                "end": 177,
+                "token_start": 29,
+                "token_end": 29,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "8.000/mmc",
+                "start": 199,
+                "end": 208,
+                "token_start": 35,
+                "token_end": 37,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Monociti",
+                "start": 190,
+                "end": 198,
+                "token_start": 34,
+                "token_end": 34,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 30,
+                "head": 29,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 35,
+                "head": 34,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Nel sospetto di JMML (leucemia giovanile mielomonocitica) viene richiesta la valutazione citofluorimetrica della fosforilazione di STAT5 (Clinica pediatrica di Monza) che risulta patologica confermando il sospetto diagnostico. ",
+        "tokens": [
+            {
+                "text": "patologica",
+                "start": 179,
+                "end": 189,
+                "token_start": 26,
+                "token_end": 26,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "fosforilazione",
+                "start": 113,
+                "end": 127,
+                "token_start": 15,
+                "token_end": 15,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 26,
+                "head": 15,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Nella storia clinica del paziente non sono presenti patologie degne di nota, PA 150/95 mmHg FC 80 bpm, T 36,5 degC. ",
+        "tokens": [
+            {
+                "text": "150/95 mmHg",
+                "start": 80,
+                "end": 91,
+                "token_start": 14,
+                "token_end": 17,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "PA",
+                "start": 77,
+                "end": 79,
+                "token_start": 13,
+                "token_end": 13,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "80 bpm",
+                "start": 95,
+                "end": 101,
+                "token_start": 19,
+                "token_end": 20,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "FC",
+                "start": 92,
+                "end": 94,
+                "token_start": 18,
+                "token_end": 18,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "36,5 degC",
+                "start": 105,
+                "end": 112,
+                "token_start": 23,
+                "token_end": 25,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "T",
+                "start": 103,
+                "end": 104,
+                "token_start": 22,
+                "token_end": 22,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 14,
+                "head": 13,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 19,
+                "head": 18,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 23,
+                "head": 22,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Gli esami ematochimici evidenziano emocromo nella norma, creatininemia 1,6 mg/dl, azotemia 98 mg/dl. ",
+        "tokens": [
+            {
+                "text": "nella norma",
+                "start": 44,
+                "end": 55,
+                "token_start": 5,
+                "token_end": 6,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "emocromo",
+                "start": 35,
+                "end": 43,
+                "token_start": 4,
+                "token_end": 4,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "1,6 mg/dl",
+                "start": 71,
+                "end": 80,
+                "token_start": 9,
+                "token_end": 12,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "creatininemia",
+                "start": 57,
+                "end": 70,
+                "token_start": 8,
+                "token_end": 8,
+                "entityLabel": "EVENT"
+            },
+            {
+                "text": "98 mg/dl",
+                "start": 91,
+                "end": 99,
+                "token_start": 15,
+                "token_end": 18,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "azotemia",
+                "start": 82,
+                "end": 90,
+                "token_start": 14,
+                "token_end": 14,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 5,
+                "head": 4,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 9,
+                "head": 8,
+                "relationLabel": "REL"
+            },
+            {
+                "child": 15,
+                "head": 14,
+                "relationLabel": "REL"
+            }
+        ]
+    },
+    {
+        "document": "Esame urine: microematuria, Peso specifico < 1007.",
+        "tokens": [
+            {
+                "text": "< 1007",
+                "start": 43,
+                "end": 49,
+                "token_start": 7,
+                "token_end": 8,
+                "entityLabel": "RML"
+            },
+            {
+                "text": "Peso",
+                "start": 28,
+                "end": 32,
+                "token_start": 5,
+                "token_end": 5,
+                "entityLabel": "EVENT"
+            }
+        ],
+        "relations": [
+            {
+                "child": 7,
+                "head": 5,
+                "relationLabel": "REL"
+            }
+        ]
+    }
+]

@@ -7,10 +7,26 @@ PAQUITA is an open-source project that provides a powerful and efficient pipelin
 - _SpaCy Integration:_ Leverages SpaCy's powerful NLP capabilities for fast and efficient text processing and entity recognition.
 - _Hugging Face Transformers:_ Utilizes state-of-the-art transformer models for relation extraction, ensuring high-performance and accurate results.
 
-## LANGUAGES
-- SPANISH
-- ITALIAN
-- BASQUE
+## PREPROCESSING DATA FOR RE y NER
+./preprocessing.ipynb
+
+## CREATING DATA FILES FOR RE
+./parse_data.py
+
+
+## RAW DATA
+Spanish Testlink:
+- Tokenizados: ./testlink/TESTLINK_ES_training_data_V2/training_tokenized
+- Entidades: ./data/testlink/TESTLINK_ES_training_data_V2/TESTLINK_training_data/training.txt
+
+
+## PREPROCESSED DATA
+./preprocessed
+
+
+## MODEL CONFIGS
+./configs
+
 
 ## QUICKSTART:
 1. Run preprocessing.ipynb. This is the preprocessing notebook for the data. It works for NER and RE. It outputs '.tsv' files for NER y '.txt' for RE.

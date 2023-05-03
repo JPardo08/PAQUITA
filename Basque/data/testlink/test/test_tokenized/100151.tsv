@@ -1,0 +1,194 @@
+1-1	0-9	KONTSULTA
+1-2	10-18	ARRAZOIA
+1-3	20-27	Jokaera
+1-4	28-37	desegokia
+1-5	37-38	.
+
+2-1	40-49	AURREKARI
+2-2	50-61	PERTSONALAK
+2-3	63-65	50
+2-4	66-74	urtetako
+2-5	75-81	gizona
+2-6	81-82	.
+
+3-1	85-94	Irakaslea
+3-2	94-95	.
+
+4-1	98-105	Eskuina
+4-2	105-106	.
+
+5-1	108-118	Alergiarik
+5-2	119-121	ez
+5-3	121-122	.
+
+6-1	125-134	Aurrekari
+6-2	135-146	pertsonalik
+6-3	147-149	ez
+6-4	149-150	.
+
+7-1	152-158	EGUNGO
+7-2	159-170	GAIXOTASUNA
+7-3	172-174	50
+7-4	175-183	urtetako
+7-5	184-190	gizona
+7-6	190-191	,
+7-7	192-206	Larrialdietara
+7-8	208-215	dakarte
+7-9	216-226	bat-bateko
+7-10	227-235	jokabide
+7-11	236-245	desegokia
+7-12	246-260	aurkezteagatik
+7-13	260-261	.
+
+8-1	264-270	Lekuko
+8-2	271-276	batek
+8-3	277-284	dioenez
+8-4	284-285	,
+8-5	286-293	klasean
+8-6	294-301	zegoela
+8-7	301-302	,
+8-8	303-312	zentzurik
+8-9	313-319	gabeko
+8-10	320-328	esaldiak
+8-11	329-335	esaten
+8-12	336-340	hasi
+8-13	341-343	da
+8-14	343-344	,
+8-15	345-353	hizkutza
+8-16	354-361	batetik
+8-17	362-369	bestera
+8-18	370-377	aldatuz
+8-19	377-378	.
+
+9-1	381-383	Ez
+9-2	384-386	du
+9-3	387-392	beste
+9-4	393-403	klinikarik
+9-5	404-413	aurkezten
+9-6	413-414	.
+
+10-1	416-430	MIAKETAFISIKOA
+10-2	432-449	Tentsio-arteriala
+10-3	450-453	133
+10-4	453-454	/
+10-5	454-456	88
+10-6	457-461	mmHg
+10-7	461-462	;
+10-8	463-480	bihotz-maiztasuna
+10-9	481-483	90
+10-10	484-486	tm
+10-11	486-487	;
+10-12	488-496	gluzemia
+10-13	497-500	240
+10-14	501-503	mg
+10-15	503-504	/
+10-16	504-506	dl
+10-17	506-507	.
+
+11-1	509-516	Miaketa
+11-2	517-529	neurologikoa
+11-3	529-530	:
+11-4	531-540	pazientea
+11-5	541-545	esne
+11-6	546-550	dago
+11-7	550-551	,
+11-8	552-565	begiakirekita
+11-9	565-566	,
+11-10	567-573	afasia
+11-11	574-588	sentsitiboaeta
+11-12	589-601	gorputz-adar
+11-13	602-609	guztien
+11-14	610-617	berezko
+11-15	618-628	mugimendua
+11-16	629-638	aurkeztuz
+11-17	638-639	,
+11-18	640-649	agindurik
+11-19	650-654	bete
+11-20	655-659	gabe
+11-21	659-660	.
+
+12-1	663-672	Begi-nini
+12-2	673-681	berdinak
+12-3	682-685	eta
+12-4	686-698	erreaktiboak
+12-5	699-703	ditu
+12-6	703-704	.
+
+13-1	707-711	Pare
+13-2	712-721	kranialak
+13-3	722-730	normalak
+13-4	731-735	dira
+13-5	735-736	.
+
+14-1	739-741	Ez
+14-2	742-744	du
+14-3	745-752	defizit
+14-4	753-761	motorrik
+14-5	762-766	ezta
+14-6	767-780	sentsitiborik
+14-7	781-784	ere
+14-8	784-785	.
+
+15-1	787-792	FROGA
+15-2	793-803	OSAGARRIAK
+15-3	805-818	Larrialdietan
+15-4	819-823	odol
+15-5	824-832	analisia
+15-6	832-833	,
+15-7	834-839	torax
+15-8	840-853	erradiografia
+15-9	854-857	eta
+15-10	858-869	burezurreko
+15-11	870-873	TAK
+15-12	874-880	egiten
+15-13	881-888	dituzte
+15-14	888-889	.
+
+16-1	891-892	-
+16-2	892-905	Odol-analisia
+16-3	905-906	:
+16-4	907-914	normala
+16-5	914-915	.
+
+17-1	917-918	-
+17-2	918-923	Torax
+17-3	924-937	erradiografia
+17-4	937-938	:
+17-5	939-946	normala
+17-6	946-947	.
+
+18-1	949-950	-
+18-2	950-961	Burezurreko
+18-3	962-965	TAK
+18-4	965-966	:
+18-5	967-976	odoljario
+18-6	977-991	subaraknoideoa
+18-7	992-998	ematen
+18-8	999-1003	duen
+18-9	1004-1020	hiperdentsitatea
+18-10	1021-1028	ikusten
+18-11	1029-1031	da
+18-12	1032-1041	Silvioren
+18-13	1042-1049	artekan
+18-14	1050-1053	eta
+18-15	1054-1069	garunenborraren
+18-16	1070-1077	inguran
+18-17	1077-1078	.
+
+19-1	1081-1090	Ezkerreko
+19-2	1091-1097	lobulu
+19-3	1098-1105	frontal
+19-4	1105-1106	,
+19-5	1107-1115	parietal
+19-6	1116-1119	eta
+19-7	1120-1131	tenporalean
+19-8	1132-1137	edema
+19-9	1138-1149	basogenikoa
+19-10	1150-1154	ikus
+19-11	1155-1162	daiteke
+19-12	1162-1163	,
+19-13	1164-1168	erdi
+19-14	1169-1178	lerroaren
+19-15	1179-1193	desplazamendua
+19-16	1194-1202	eraginez
+19-17	1202-1203	.

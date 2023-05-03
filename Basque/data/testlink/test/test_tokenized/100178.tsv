@@ -1,0 +1,141 @@
+1-1	0-9	AURREKARI
+1-2	10-21	PERTSONALAK
+1-3	21-22	:
+1-4	24-25	-
+1-5	25-32	Alergia
+1-6	33-41	ezagunik
+1-7	42-44	ez
+1-8	44-45	.
+
+2-1	47-48	-
+2-2	48-57	Tabakorik
+2-3	58-60	ez
+2-4	60-61	.
+
+3-1	63-64	-
+3-2	64-73	Aurrekari
+3-3	74-89	garrantzitsurik
+3-4	90-92	ez
+3-5	92-93	.
+
+4-1	95-96	-
+4-2	96-101	Ohiko
+4-3	102-115	tratamendurik
+4-4	116-118	ez
+4-5	122-128	EGUNGO
+4-6	129-140	GAIXOTASUNA
+4-7	142-143	-
+4-8	143-152	Lehenengo
+4-9	153-162	pazientea
+4-10	162-163	:
+4-11	164-166	47
+4-12	167-173	urteko
+4-13	174-184	gizonezkoa
+4-14	184-185	.
+
+5-1	188-193	Azken
+5-2	194-202	urteetan
+5-3	203-207	orno
+5-4	208-216	haustura
+5-5	217-224	anitzak
+5-6	225-229	izan
+5-7	230-234	ditu
+5-8	235-238	eta
+5-9	239-243	bere
+5-10	244-252	medikuak
+5-11	253-269	erreumatologiako
+5-12	270-283	kontsultetara
+5-13	284-290	bidali
+5-14	291-293	du
+5-15	293-294	.
+
+6-1	296-306	Pazienteak
+6-2	307-315	kolperik
+6-3	316-318	ez
+6-4	319-324	duela
+6-5	325-329	jaso
+6-6	330-333	dio
+6-7	333-334	.
+
+7-1	338-345	ARAKETA
+7-2	346-353	FISIKOA
+7-3	355-356	-
+7-4	356-365	Lehenengo
+7-5	366-375	pazientea
+7-6	375-376	:
+7-7	378-379	*
+7-8	380-387	Miaketa
+7-9	388-396	orokorra
+7-10	396-397	:
+7-11	398-405	normala
+7-12	407-408	*
+7-13	408-417	Lokomozio
+7-14	418-429	aparatuaren
+7-15	430-437	araketa
+7-16	437-438	:
+7-17	439-451	mugikortasun
+7-18	452-459	mugatua
+7-19	460-471	bizkarrezur
+7-20	472-482	dortsalean
+7-21	483-486	eta
+7-22	487-497	lunbarrean
+7-23	498-502	mina
+7-24	503-507	dela
+7-25	508-511	eta
+7-26	511-512	.
+
+8-1	515-524	Eskoliosi
+8-2	525-533	dortsala
+8-3	533-534	.
+
+9-1	538-543	PROBA
+9-2	544-554	OSAGARRIAK
+9-3	556-557	-
+9-4	557-566	Lehenengo
+9-5	567-576	pazientea
+9-6	576-577	:
+9-7	579-580	*
+9-8	580-595	Bizkarrezurreko
+9-9	596-598	Rx
+9-10	598-599	:
+9-11	600-604	orno
+9-12	605-613	hasturak
+9-13	613-614	.
+
+10-1	617-634	Eskoliosidortsala
+10-2	634-635	.
+
+11-1	637-638	*
+11-2	638-647	Hasierako
+11-3	648-657	analitika
+11-4	657-658	:
+11-5	659-667	aldaketa
+11-6	668-678	nabarmenik
+11-7	679-681	ez
+11-8	681-682	.
+
+12-1	684-685	*
+12-2	685-688	TAC
+12-3	689-713	torako-abdomino-pelbikoa
+12-4	713-714	:
+12-5	715-719	orno
+12-6	720-732	dortsaleneta
+12-7	733-742	lunbarren
+12-8	743-752	hausturak
+12-9	752-753	.
+
+13-1	755-756	*
+13-2	756-769	Erresonantzia
+13-3	769-770	:
+13-4	771-777	itxura
+13-5	778-792	osteoporotikoa
+13-6	793-798	duten
+13-7	799-803	orno
+13-8	804-813	hausturak
+13-9	813-814	.
+
+14-1	816-817	*
+14-2	817-831	Dentsitometria
+14-3	831-832	:
+14-4	833-843	osteopenia
+14-5	843-844	.

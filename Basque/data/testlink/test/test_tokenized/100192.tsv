@@ -1,0 +1,158 @@
+1-1	0-9	AURREKARI
+1-2	10-21	PERTSONALAK
+1-3	23-24	-
+1-4	24-26	55
+1-5	27-33	urteko
+1-6	34-42	emakumea
+1-7	42-43	.
+
+2-1	45-46	-
+2-2	46-56	Erretzaile
+2-3	57-61	ohia
+2-4	61-62	.
+
+3-1	64-65	-
+3-2	65-73	Migraina
+3-3	73-74	.
+
+4-1	76-77	-
+4-2	77-85	Sindrome
+4-3	86-96	depresiboa
+4-4	96-97	.
+
+5-1	99-100	-
+5-2	100-109	Ebakuntza
+5-3	110-122	kirurgikorik
+5-4	123-125	ez
+5-5	125-126	.
+
+6-1	128-129	-
+6-2	129-134	Ohiko
+6-3	135-148	tratamendurik
+6-4	149-151	ez
+6-5	151-152	.
+
+7-1	156-163	ORAINGO
+7-2	164-175	GAIXOTASUNA
+7-3	177-183	2018ko
+7-4	184-192	Uztailan
+7-5	193-206	Urgentzietako
+7-6	207-217	Zerbitzura
+7-7	218-220	jo
+7-8	221-225	zuen
+7-9	226-227	6
+7-10	228-233	urtez
+7-11	234-238	uzki
+7-12	239-246	kanpoko
+7-13	247-253	aldean
+7-14	254-262	hazitako
+7-15	263-277	tumoraziogatik
+7-16	277-278	.
+
+8-1	281-288	Aurreko
+8-2	289-290	3
+8-3	291-302	hilabetetan
+8-4	302-303	,
+8-5	304-313	ondesteko
+8-6	314-325	odol-jarioa
+8-7	326-329	eta
+8-8	330-334	moko
+8-9	335-343	isurketa
+8-10	344-347	eta
+8-11	348-356	gorotzei
+8-12	357-361	ezin
+8-13	362-368	eustea
+8-14	369-375	agertu
+8-15	376-381	ziren
+8-16	381-382	.
+
+9-1	385-388	Eta
+9-2	389-398	azkenengo
+9-3	399-409	hilabetean
+9-4	409-410	,
+9-5	411-418	txisari
+9-6	419-423	ezin
+9-7	424-430	eustea
+9-8	430-431	,
+9-9	432-443	husterakoan
+9-10	444-453	baginatik
+9-11	454-466	odolo-jarioa
+9-12	467-470	eta
+9-13	471-480	hematuria
+9-14	481-487	gehitu
+9-15	488-493	ziren
+9-16	493-494	.
+
+10-1	498-505	MIAKETA
+10-2	506-513	FISIKOA
+10-3	515-523	Sukarrik
+10-4	524-526	ez
+10-5	526-527	.
+
+11-1	529-533	Uzki
+11-2	534-540	aldean
+11-3	541-546	lesio
+11-4	547-559	ezkreszentea
+11-5	559-560	,
+11-6	561-568	gogorra
+11-7	568-569	,
+11-8	570-577	barruko
+11-9	578-588	planoetara
+11-10	589-599	atxikituta
+11-11	599-600	.
+
+12-1	603-608	Kanpo
+12-2	609-616	genital
+12-3	617-620	eta
+12-4	621-627	bagina
+12-5	628-636	normalak
+12-6	636-637	.
+
+13-1	640-647	Gongoil
+13-2	648-656	gogorrak
+13-3	657-659	bi
+13-4	660-672	iztaialdetan
+13-5	672-673	.
+
+14-1	677-682	FROSA
+14-2	683-693	OSAGARRIAK
+14-3	695-696	-
+14-4	696-705	Analitika
+14-5	705-706	:
+14-6	706-708	Hb
+14-7	709-713	10.3
+14-8	713-714	.
+
+15-1	717-726	Bestelako
+15-2	727-738	parametroak
+15-3	739-747	normalak
+15-4	747-748	.
+
+16-1	750-751	-
+16-2	751-753	TC
+16-3	753-754	:
+16-4	755-762	Ondeste
+16-5	763-766	eta
+16-6	767-771	uzki
+16-7	772-781	bitarteko
+16-8	782-788	mugara
+16-9	789-796	heltzen
+16-10	797-800	den
+16-11	801-811	tumorazioa
+16-12	811-812	,
+16-13	813-822	butzadura
+16-14	823-832	partziala
+16-15	833-841	eragiten
+16-16	842-847	duena
+16-17	847-848	.
+
+17-1	851-855	Uzki
+17-2	855-856	,
+17-3	857-864	ondeste
+17-4	865-868	eta
+17-5	869-871	bi
+17-6	872-884	iztaildetako
+17-7	885-891	aldean
+17-8	892-902	adenopatia
+17-9	903-915	susmagarriak
+17-10	915-916	.
