@@ -1,14 +1,8 @@
-# PAQUITA: Medical NER and RE Pipeline with SpaCy and Hugging Face
-PAQUITA is an open-source project that provides a powerful and efficient pipeline for Named Entity Recognition (NER) and Relation Extraction (RE) in the medical domain. Built using the SpaCy and Hugging Face libraries, PAQUITA is designed to process and extract valuable information from medical text data such as electronic health records (EHRs) and clinical notes. This enables advanced data analysis, knowledge discovery, and improvements in patient care.
-
-## FEATURES
-- _Named Entity Recognition (NER):_ Identifies medical entities such as diseases, medications, symptoms, and procedures within the text.
-- _Relation Extraction (RE):_ Detects and classifies the relationships between the identified medical entities, enabling the understanding of complex medical scenarios.
-- _SpaCy Integration:_ Leverages SpaCy's powerful NLP capabilities for fast and efficient text processing and entity recognition.
-- _Hugging Face Transformers:_ Utilizes state-of-the-art transformer models for relation extraction, ensuring high-performance and accurate results.
+# PAQUITA – SPANISH: Medical NER and RE Pipeline with SpaCy and Hugging Face
 
 ## PREPROCESSING DATA FOR RE y NER
 ./preprocessing.ipynb
+./preprocessing.py
 
 ## CREATING DATA FILES FOR RE
 ./parse_data.py
@@ -16,8 +10,8 @@ PAQUITA is an open-source project that provides a powerful and efficient pipelin
 
 ## RAW DATA
 Spanish Testlink:
-- Tokenizados: ./testlink/TESTLINK_ES_training_data_V2/training_tokenized
-- Entidades: ./data/testlink/TESTLINK_ES_training_data_V2/TESTLINK_training_data/training.txt
+- Tokenizados: ./Spanish/data/testlink/training/TESTLINK_ES_training_data_V2/training_tokenized
+- Entidades: ./Spanish/data/testlink/training/TESTLINK_ES_training_data_V2/TESTLINK_training_data/training.txt
 
 
 ## PREPROCESSED DATA
