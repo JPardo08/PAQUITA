@@ -22,6 +22,16 @@ Basque Testlink:
 ./configs
 
 
+## TRANSFORMERS MODELS 
+Download from the right path and put 'model' file into the left path:
+
+./results_basque_ner/model-best/transformer/model -> https://drive.upm.es/s/NWwKJCu7idGqn1k
+./results_basque_ner/model-last/transformer/model -> https://drive.upm.es/s/BxI9SPTKH5z4CGJ
+
+./results_basque_re/model-best/transformer/model -> https://drive.upm.es/s/gkax2btzUzeElsI
+./results_basque_re/model-last/transformer/model -> https://drive.upm.es/s/C8aP21dBpfSZwxN
+
+
 ## QUICKSTART:
 1. Run preprocessing.ipynb. This is the preprocessing notebook for the data. It works for NER and RE. It outputs '.tsv' files for NER y '.txt' for RE.
 

@@ -22,6 +22,17 @@ Spanish Testlink:
 ./configs
 
 
+## TRANSFORMERS MODELS 
+Download from the right path and put 'model' file into the left path:
+
+./results_e4_ner/model-best/transformer/model -> https://drive.upm.es/s/E2aBjB84CoeEAG3
+./results_e4_ner/model-last/transformer/model -> https://drive.upm.es/s/aJI6ZA4fMxl7Ti8
+
+./results_e4_re/model-best/transformer/model -> https://drive.upm.es/s/DQqai2EP9pB3zi4
+./results_e4_re/model-last/transformer/model -> https://drive.upm.es/s/wDq8l4T1BZc2PIo
+
+
+
 ## QUICKSTART:
 1. Run preprocessing.ipynb. This is the preprocessing notebook for the data. It works for NER and RE. It outputs '.tsv' files for NER y '.txt' for RE.
 
