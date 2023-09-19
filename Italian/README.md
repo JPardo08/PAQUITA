@@ -24,11 +24,11 @@ Italian Clinkart:
 ## TRANSFORMERS MODELS 
 Download from the right path and put 'model' file into the left path:
 
-./results_italian_ner/model-best/transformer/model -> https://drive.upm.es/s/DnxWm9HyXtVJ1CM
-./results_italian_ner/model-last/transformer/model -> https://drive.upm.es/s/Tr596FMX3BRsJCj
+- ./results_italian_ner/model-best/transformer/model -> https://drive.upm.es/s/DnxWm9HyXtVJ1CM
+- ./results_italian_ner/model-last/transformer/model -> https://drive.upm.es/s/Tr596FMX3BRsJCj
 
-./results_italian_re/model-best/transformer/model -> https://drive.upm.es/s/KzZarRWDedMCLD8
-./results_italian_re/model-last/transformer/model -> https://drive.upm.es/s/IxnMAttggMpSsSI
+- ./results_italian_re/model-best/transformer/model -> https://drive.upm.es/s/KzZarRWDedMCLD8
+- ./results_italian_re/model-last/transformer/model -> https://drive.upm.es/s/IxnMAttggMpSsSI
 
 
 ## QUICKSTART:

@@ -25,11 +25,11 @@ Spanish Testlink:
 ## TRANSFORMERS MODELS 
 Download from the right path and put 'model' file into the left path:
 
-./results_e1_ner/model-best/transformer/model -> https://drive.upm.es/s/oiaRZul5mvyyN0M
-./results_e1_ner/model-last/transformer/model -> https://drive.upm.es/s/0dquyUv9IBowAHg
+- ./results_e1_ner/model-best/transformer/model -> https://drive.upm.es/s/oiaRZul5mvyyN0M
+- ./results_e1_ner/model-last/transformer/model -> https://drive.upm.es/s/0dquyUv9IBowAHg
 
-./results_e1_re/model-best/transformer/model -> https://drive.upm.es/s/xQWyFWVBO336krm
-./results_e1_re/model-last/transformer/model -> https://drive.upm.es/s/B4Qxb1w1ueITGVo
+- ./results_e1_re/model-best/transformer/model -> https://drive.upm.es/s/xQWyFWVBO336krm
+- ./results_e1_re/model-last/transformer/model -> https://drive.upm.es/s/B4Qxb1w1ueITGVo
 
 
 ## QUICKSTART:
