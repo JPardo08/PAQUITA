@@ -1,0 +1,180 @@
+1-1	0-12	DERMATOLOGIA
+
+2-1	14-29	OSPITALERATZEKO
+2-2	30-38	ARRAZOIA
+
+3-1	40-52	Larruazaleko
+3-2	53-60	lesioak
+3-3	61-67	dituen
+3-4	68-70	58
+3-5	71-77	urteko
+3-6	78-86	emakumea
+3-7	86-87	.
+
+4-1	89-100	AURREKARIAK
+
+5-1	102-104	Ez
+5-2	105-108	die
+5-3	109-118	farmakoei
+5-4	119-129	alergiarik
+5-5	129-130	.
+
+6-1	132-135	HTA
+6-2	136-139	eta
+6-3	140-159	hiperkolesterolemia
+6-4	159-160	.
+
+7-1	162-173	Tratamendua
+7-2	173-174	:
+7-3	175-187	sinbastatina
+7-4	187-188	,
+7-5	189-198	enalapril
+7-6	198-199	/
+7-7	199-216	hidroklorotiazida
+7-8	216-217	.
+
+8-1	219-225	EGUNGO
+8-2	226-234	HISTORIA
+
+9-1	236-241	Duela
+9-2	242-244	10
+9-3	245-249	egun
+9-4	250-267	gorputz-enborrean
+9-5	268-280	larruazaleko
+9-6	281-288	lesioak
+9-7	289-295	agertu
+9-8	296-307	zitzaizkion
+9-9	307-308	.
+
+10-1	310-328	Gorputz-adarretara
+10-2	329-336	zabaldu
+10-3	337-344	zaizkio
+10-4	345-348	eta
+10-5	349-355	azkura
+10-6	356-358	du
+10-7	358-359	.
+
+11-1	361-365	Egun
+11-2	366-372	batzuk
+11-3	373-381	lehenago
+11-4	381-382	,
+11-5	383-393	haginetako
+11-6	394-402	infekzio
+11-7	403-406	bat
+11-8	407-417	tratatzeko
+11-9	417-418	,
+11-10	419-430	amoxizilina
+11-11	431-436	hartu
+11-12	437-441	zuen
+11-13	441-442	.
+
+12-1	444-453	AZTERKETA
+12-2	454-461	FISIKOA
+
+13-1	463-474	Tenperatura
+13-2	474-475	:
+13-3	476-480	36,5
+13-4	481-482	°
+13-5	482-483	C
+13-6	483-484	.
+
+14-1	486-492	Egoera
+14-2	493-499	orokor
+14-3	500-503	ona
+14-4	504-506	du
+14-5	506-507	.
+
+15-1	509-516	Azaleko
+15-2	517-524	lesioak
+15-3	524-525	.
+
+16-1	527-534	Lesioen
+16-2	535-542	tankera
+16-3	542-543	,
+16-4	544-552	kokapena
+16-5	553-556	eta
+16-6	557-565	banaketa
+16-7	565-566	:
+16-8	567-578	simetrikoki
+16-9	579-584	enbor
+16-10	585-588	eta
+16-11	589-606	gorputz-adarretan
+16-12	607-615	exantema
+16-13	616-634	makulopapulosorako
+16-14	635-640	joera
+16-15	641-648	ikusten
+16-16	649-654	zaien
+16-17	655-662	lesioak
+16-18	662-663	.
+
+17-1	665-667	Ez
+17-2	668-672	dago
+17-3	673-681	lesiorik
+17-4	682-687	ahoko
+17-5	688-695	mukosan
+17-6	695-696	,
+17-7	697-711	esku-ahurretan
+17-8	712-715	eta
+17-9	716-723	oinetan
+17-10	723-724	.
+
+18-1	726-737	DIAGNOSTIKO
+18-2	738-745	NAGUSIA
+
+19-1	747-759	Toxikodermia
+19-2	760-773	morbiliformea
+19-3	773-774	.
+
+20-1	776-787	TRATAMENDUA
+
+21-1	789-800	Medikamentu
+21-2	801-812	susmagarria
+21-3	813-822	hartzeari
+21-4	823-827	utzi
+21-5	827-828	.
+
+22-1	830-840	Loratadina
+22-2	841-846	hartu
+22-3	847-854	goizean
+22-4	855-858	eta
+22-5	859-868	eguerdian
+22-6	868-869	.
+
+23-1	871-877	Atarax
+23-2	878-879	®
+23-3	880-892	konprimituak
+23-4	893-898	hartu
+23-5	899-905	gauean
+23-6	905-906	.
+
+24-1	908-914	Elocom
+24-2	915-916	®
+24-3	917-918	(
+24-4	918-928	mometasona
+24-5	929-937	furoatoa
+24-6	937-938	)
+24-7	939-944	krema
+24-8	944-945	,
+24-9	946-952	geruza
+24-10	953-956	fin
+24-11	957-960	bat
+24-12	961-965	eman
+24-13	965-966	,
+24-14	967-971	ondo
+24-15	972-979	zabaldu
+24-16	979-980	,
+24-17	981-984	eta
+24-18	985-989	utzi
+24-19	990-1001	desagertzen
+24-20	1002-1011	pixkanaka
+24-21	1011-1012	.
+
+25-1	1014-1019	BESTE
+25-2	1020-1028	GOMENDIO
+25-3	1029-1035	BATZUK
+
+26-1	1037-1039	Ez
+26-2	1040-1045	hartu
+26-3	1046-1057	amoxizilina
+26-4	1058-1068	gehiagorik
+26-5	1068-1069	.
