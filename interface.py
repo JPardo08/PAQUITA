@@ -1,4 +1,6 @@
 # streamlit run /Users/joelpardo/Desktop/PAQUITA/interface.py
+
+
 import streamlit as st
 from PIL import Image
 from utils_paquita import run_ner, run_re  # Asume que tienes funciones para NER y RE
