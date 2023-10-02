@@ -9,9 +9,14 @@
 
 
 ## RAW DATA
-Spanish Testlink:
-- Tokenized: ./Spanish/data/testlink/training/TESTLINK_ES_training_data_V2/training_tokenized
-- Entities: ./Spanish/data/testlink/training/TESTLINK_ES_training_data_V2/TESTLINK_training_data/training.txt
+Basque Testlink:
+- Tokenized: ./Basque/data/testlink/training/training_tokenized
+- Entities: ./Basque/data/testlink/training/training.txt
+
+Italian Clinkart:
+- Tokenized: ./Italian/data/clinkart/training/Clinkart_training_data_V2/training_tokenized
+- Entities: ./Italian/data/clinkart/training/Clinkart_training_data_V2/training.txt
+
 
 
 ## PREPROCESSED DATA
