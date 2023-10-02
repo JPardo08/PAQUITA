@@ -2,7 +2,7 @@
 
 ## PREPROCESSING DATA FOR RE y NER
 ./preprocessing.ipynb
-./preprocessing.py
+
 
 ## CREATING DATA FILES FOR RE
 ./parse_data.py
@@ -10,8 +10,8 @@
 
 ## RAW DATA
 Basque Testlink:
-- Tokenizados: ./Basque/data/testlink/training/training_tokenized
-- Entidades: ./Basque/data/testlink/training/training.txt
+- Tokenized: ./Basque/data/testlink/training/training_tokenized
+- Entities: ./Basque/data/testlink/training/training.txt
 
 
 ## PREPROCESSED DATA
@@ -56,7 +56,7 @@ Download from the right path and put 'model' file into the left path:
 
 ### B3: DEPLOYMENT
 
-1. Retrieve the models from Google Drive and place them in the directory: `results_*model experiment*_{ner/re}`.
+1. Retrieve the models from Google Drive and place them in the directory: `results_basque_{ner/re}`.
 
 2. Navigate to the project directory (**PAQUITA**) using a terminal. Execute the command `streamlit run ./interface.py`. If you encounter issues, adjust the path to accurately point to `interface.py`. This command launches the project's interface with Streamlit, where you can review experimental results based on the input provided.
 

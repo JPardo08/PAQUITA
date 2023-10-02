@@ -2,7 +2,7 @@
 
 ## PREPROCESSING DATA FOR RE y NER
 ./preprocessing.ipynb
-./preprocessing.py
+
 
 ## CREATING DATA FILES FOR RE
 ./parse_data.py
@@ -10,8 +10,8 @@
 
 ## RAW DATA
 Spanish Testlink:
-- Tokenizados: ./Spanish/data/testlink/training/TESTLINK_ES_training_data_V2/training_tokenized
-- Entidades: ./Spanish/data/testlink/training/TESTLINK_ES_training_data_V2/TESTLINK_training_data/training.txt
+- Tokenized: ./Spanish/data/testlink/training/TESTLINK_ES_training_data_V2/training_tokenized
+- Entities: ./Spanish/data/testlink/training/TESTLINK_ES_training_data_V2/TESTLINK_training_data/training.txt
 
 
 ## PREPROCESSED DATA
@@ -57,7 +57,7 @@ Download from the right path and put 'model' file into the left path:
 
 ### B3: DEPLOYMENT
 
-1. Retrieve the models from Google Drive and place them in the directory: `results_*model experiment*_{ner/re}`.
+1. Retrieve the models from Google Drive and place them in the directory: `results_e4_{ner/re}`.
 
 2. Navigate to the project directory (**PAQUITA**) using a terminal. Execute the command `streamlit run ./interface.py`. If you encounter issues, adjust the path to accurately point to `interface.py`. This command launches the project's interface with Streamlit, where you can review experimental results based on the input provided.
 
