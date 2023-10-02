@@ -32,17 +32,34 @@ Download from the right path and put 'model' file into the left path:
 
 
 ## QUICKSTART:
-1. Run preprocessing.ipynb. This is the preprocessing notebook for the data. It works for NER and RE. It outputs '.tsv' files for NER y '.txt' for RE.
+### B1: PREPROCESSING
 
-2. Run parse_data.py to extract the '.spacy' data for RE.
+1. Ensure all data is stored in the **data** folder.
+  
+2. Execute `preprocessing.ipynb`, the preprocessing notebook for data preparation. It handles both NER and RE tasks, outputting `.tsv` files for NER and `.json` files for RE.
+  
+3. Execute `parse_data.py` to convert `.json` files into `.spacy` files for RE.
 
-3. Upload the NER '.tsv' files and RE '.spacy' files to Drive, located in the preprocessed folder.
+### B2: PREPARATION
 
-4. Upload the NER '.cfg' files and RE '.cfg' files to Drive, located in the configs folder.
+1. Upload the NER `.tsv` files and RE `.spacy` files from the **preprocessed** folder to Google Drive. Then, open the `paquita_exec.ipynb` notebook with Google Colab.
+  
+2. Transfer the NER `.cfg` and RE `.cfg` files from the **configs** folder to Google Drive. Also, upload the `project.yml` that contains the specified metadata for training.
+  
+3. Run `paquita_exec.ipynb`. This notebook handles the training and deployment of both NER and RE tasks. Ensure the corresponding `.cfg` files for RE and NER are available. The output comprises two models for each task: 
+   - **model_best**: the model showcasing the optimal performance throughout the training. 
+   - **model_last**: the model reflecting the final trained weight.
 
-5. Execute paquita_exec.ipynb, which performs the training and deployment of NER and RE. Here is important to have the '.cfg' file for RE and NER. 
+> **NOTE:** Each model has two components: the model definition stored in the repository and the configuration that outlines the training process.
 
 
+### B3: DEPLOYMENT
+
+1. Retrieve the models from Google Drive and place them in the directory: `results_*model experiment*_{ner/re}`.
+
+2. Navigate to the project directory (**PAQUITA**) using a terminal. Execute the command `streamlit run ./interface.py`. If you encounter issues, adjust the path to accurately point to `interface.py`. This command launches the project's interface with Streamlit, where you can review experimental results based on the input provided.
+
+> **NOTE:** The `interface.py` file relies directly on `utils_paquita.py`. Both `rel_model.py` and `rel_pipe.py` are reference files. When `paquita_exec.ipynb` is executed, additional projects will be fetched into the local virtual environment.
 
 ## LICENSE
 PAQUITA is released under the MIT License.
