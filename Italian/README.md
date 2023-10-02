@@ -1,4 +1,4 @@
-# PAQUITA – ITALIAN: Medical NER and RE Pipeline with SpaCy and Hugging Face
+# PAQUITA – ITALIAN: Entity and Relation Extraction from Electronic Health Records using SpaCy.
 
 ## PREPROCESSING DATA FOR RE y NER
 ./preprocessing.ipynb
